@@ -1,6 +1,36 @@
 # Framework para Planejamento de Aulas em Engenharia de Software
 
+Bem-vindo ao Framework para Aulas Invertidas em Engenharia de Software. Este documento fornece uma visão geral e orientação sobre como utilizar o framework para melhorar a eficácia das suas aulas invertidas.
+
+## Índice
+
+- [Visão Geral](#visao-geral)
+- [Principais Objetivos](#principais-objetivos)
+- [Como Funciona](#como-funciona)
+- [Exemplos](#exemplos)
+- [Documentação](#documentacao)
+- [Contribuições](#contribuicoes)
+- [Licença](#licenca)
+
+
+## Visão Geral
+
 Este framework é desenvolvido para auxiliar professores de Engenharia de Software no planejamento e execução de suas aulas, assegurando um processo de ensino eficaz e engajador.
+O **Framework para Aulas Invertidas em Engenharia de Software** foi desenvolvido para transformar a abordagem tradicional de ensino, facilitando a criação e a gestão de aulas invertidas de forma eficiente e integrada. Nossa solução oferece uma maneira simples e direta de preparar suas aulas, combinando teoria e prática com a motivação adicional dos elementos de gamificação.
+
+## Principais Objetivos
+
+- **Início Rápido e Eficiente**: Fornecer uma plataforma que permita aos professores criar e gerenciar aulas invertidas com agilidade, reduzindo o tempo necessário para preparar materiais e atividades.
+
+- **Integração Fluida de Gamificação**: Incorporar elementos de gamificação, como pontuação, recompensas e desafios, para tornar o processo de aprendizado mais envolvente e motivador, incentivando a participação ativa dos alunos.
+
+- **Personalização Adaptativa**: Oferecer ferramentas para ajustar o conteúdo das aulas e as atividades de acordo com o nível de conhecimento prévio dos alunos e suas necessidades específicas, garantindo uma abordagem personalizada e eficaz.
+
+- **Avaliação Contínua e Abrangente**: Integrar mecanismos de avaliação, desde a avaliação diagnóstica até a pós-aula, para monitorar o progresso dos alunos, identificar lacunas no conhecimento e adaptar o ensino conforme necessário.
+
+- **Foco na Aplicação Prática**: Facilitar a realização de atividades práticas que complementem o conteúdo teórico estudado, promovendo a aplicação prática do conhecimento e a resolução de problemas reais.
+
+Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
 
 ## Avaliação Diagnóstica
 

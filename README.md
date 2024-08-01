@@ -1,13 +1,12 @@
-# Framework para Planejamento de Aulas em Engenharia de Software
+# GamIES: Um framework para Gamificação de Sala de Aula Invertida em Engenharia de Software
 
-Bem-vindo ao Framework para Aulas Invertidas em Engenharia de Software. Este documento fornece uma visão geral e orientação sobre como utilizar o framework para melhorar a eficácia das suas aulas invertidas.
+Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sobre como aplicar nosso framework para integrar elementos de gamificação em suas aulas invertidas, potencializando a motivação e o engajamento dos alunos.
 
 ## Índice
 
 - [Visão Geral](#visao-geral)
 - [Principais Objetivos](#principais-objetivos)
 - [Como Funciona](#como-funciona)
-- [Exemplos](#exemplos)
 - [Documentação](#documentacao)
 - [Contribuições](#contribuicoes)
 - [Licença](#licenca)
@@ -32,17 +31,23 @@ O **Framework para Aulas Invertidas em Engenharia de Software** foi desenvolvido
 
 Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
 
-## Avaliação Diagnóstica
+## Como Funciona
 
-### Descrição
+Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
+
+## Documentação
+
+### Avaliação Diagnóstica
+
+#### Descrição
 
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 
-### Por que Fazer?
+#### Por que Fazer?
 
 Isso permite identificar lacunas de aprendizado e ajustar o material de estudo de acordo com as necessidades individuais e coletivas dos estudantes. Além disso, também é uma oportunidade para que os estudantes se envolvam ativamente no processo de aprendizagem e reflitam sobre seus conhecimentos.
 
-### Como Fazer?
+#### Como Fazer?
 
 Geralmente, é realizada por meio de testes, questionários ou atividades que possibilitam ao professor ter um panorama sobre o nível de conhecimento do aluno.
 
@@ -50,22 +55,22 @@ Adoção de elementos de Gamificação, como pontuação e recompensas, para inc
 
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 
-### Exemplos
+#### Exemplos
 
 - Questionário com questões objetivas e com pontuações associadas às questões
 - Questionário auto declarativo
 
-## Roteiro de Estudos
+### Roteiro de Estudos
 
-### Descrição
+#### Descrição
 
 Serve como guia para os alunos, no momento de preparação para as atividades em sala. Materiais de estudos são disponibilizados pelo professor para que o aluno estude e aprenda o conteúdo em casa.
 
-### Por que Fazer?
+#### Por que Fazer?
 
 Para que os alunos possam estudar o conteúdo abordado e se preparar para as aulas práticas na sala de aula. Esse momento é importante para que os alunos aprendam a parte teórica do conteúdo ministrado e consiga ter um bom desempenho nas atividades que serão realizadas com base no conteúdo estudado.
 
-### Como Fazer?
+#### Como Fazer?
 
 Esse roteiro pode incluir assistir aulas em vídeo, leitura de materiais, pesquisas, entre outras atividades, com o objetivo de facilitar a aprendizagem e direcionar o estudo dos estudantes.
 
@@ -73,24 +78,24 @@ Alguns elementos de gamificação podem ser incluídos no roteiro de estudos, co
 
 Outro elemento de gamificação que pode ser utilizado é o de progressão, incluindo componentes como uma barra de progresso ou sistema de níveis.
 
-### Exemplos
+#### Exemplos
 
 - Vídeo aulas
 - Artigos científicos
 - Capítulos de livros
 - Sites
 
-## Avaliação Pré-Aula
+### Avaliação Pré-Aula
 
-### Descrição
+#### Descrição
 
 Instrumento de avaliação que deve ser aplicado antes da aula prática, com o propósito de verificar o conhecimento adquirido pelos alunos sobre o tema abordado no roteiro de estudo disponibilizado pelo professor.
 
-### Por que Fazer?
+#### Por que Fazer?
 
 O objetivo da avaliação pré-aula é identificar as lacunas do conhecimento do aluno e orientá-lo sobre quais tópicos precisam ser revistos ou reforçados durante o estudo. Além disso, essa avaliação também é importante para que o aluno formule dúvidas relacionadas ao assunto que podem ser direcionadas ao professor durante o momento em sala de aula.
 
-### Como Fazer?
+#### Como Fazer?
 
 Pode ser feita por meio de um questionário online, com questões de múltipla escolha, ou um exercício prático que estimule a reflexão sobre o assunto.
 
@@ -100,24 +105,24 @@ Outro elemento de gamificação que pode ser adicionado são as conquistas ou me
 
 Utilizar elementos visuais para fornecer um feedback imediato. Quando o usuário acertar uma questão, a resposta correta pode ser marcada em verde e o usuário pode visualizar uma animação positiva. Em contrapartida, ao errar, a resposta correta pode ser marcada em vermelho e o usuário pode ver uma animação indicando que a resposta está incorreta.
 
-### Exemplos
+#### Exemplos
 
 - Questionário com questões de múltipla escolha
 - Feedback indicando uma resposta incorreta e uma resposta correta
 - Elemento que mostre o desempenho e progresso do usuário
 - Recompensas para incentivar o usuário
 
-## Aulas Práticas
+### Aulas Práticas
 
-### Descrição
+#### Descrição
 
 Atividades práticas realizadas na sala de aula ou no encontro da turma com o professor. Essas atividades podem envolver a resolução de problemas, simulações, jogos educacionais, quizzes, entre outras atividades relacionadas ao assunto abordado nos materiais disponibilizados anteriormente.
 
-### Por que Fazer?
+#### Por que Fazer?
 
 Para que os alunos possam exercitar o conhecimento adquirido durante os estudos em casa. Durante este momento, o professor também pode responder às dúvidas dos alunos e avaliar o nível de compreensão da turma e ajustar suas explicações de acordo com as necessidades dos alunos.
 
-### Como Fazer?
+#### Como Fazer?
 
 O professor(a) deve marcar um encontro com a turma a ser realizado após a conclusão das etapas anteriores. No primeiro momento, o professor pode aproveitar para sanar dúvidas dos alunos com relação ao conteúdo abordado. Em seguida, deve ser realizada uma atividade prática em grupo sobre o assunto abordado. A atividade fica a critério do professor, e esta deve ser planejada antes do encontro com a turma.
 
@@ -129,26 +134,36 @@ Para promover a participação e melhor interação entre os alunos, alguns elem
 - **Competições**: Promover competições em sala de aula, como quizzes ou jogos, estimulando a participação e a colaboração entre os alunos.
 - **Premiações**: Premiar os alunos com melhores desempenhos ou que mais se destacarem durante as atividades gamificadas.
 
-### Exemplos
+#### Exemplos
 
 - Fornecer materiais das atividades que já realizamos
 - Demonstrar o uso dos elementos de gamificação na prática
 
-## Avaliação Pós-Aula
+### Avaliação Pós-Aula
 
-### Descrição
+#### Descrição
 
 Instrumento de avaliação que deve ser aplicado após a realização da aula prática, com o intuito de verificar o grau de compreensão e assimilação dos conteúdos pelos estudantes.
 
-### Por que Fazer?
+#### Por que Fazer?
 
 A avaliação pós-aula permite ao professor identificar se os objetivos de aprendizagem foram alcançados e se é necessário reforçar algum conteúdo. Também oferece aos alunos a oportunidade de revisar o conteúdo aprendido.
 
-### Como Fazer?
+#### Como Fazer?
 
 Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, apresentações orais, entre outros.
 
-### Exemplos
+#### Exemplos
 
 - Questionário com questões de múltipla escolha
 - Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário
+
+## Contribuições
+
+Se você deseja contribuir para o desenvolvimento deste framework, por favor, leia nosso [Guia de Contribuições](CONTRIBUTING.md).
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+

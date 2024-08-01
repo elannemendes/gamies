@@ -1,6 +1,3 @@
-Aqui está o texto estruturado para o GitHub em formato Markdown, mantendo a escrita original:
-
-```markdown
 # Framework para Planejamento de Aulas em Engenharia de Software
 
 Este framework é desenvolvido para auxiliar professores de Engenharia de Software no planejamento e execução de suas aulas, assegurando um processo de ensino eficaz e engajador.
@@ -125,6 +122,3 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 
 - Questionário com questões de múltipla escolha
 - Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário
-```
-
-Essa estrutura no Markdown facilitará a leitura e a navegação do documento no GitHub, permitindo que todos os detalhes sejam apresentados de forma clara e organizada.

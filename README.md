@@ -15,7 +15,7 @@ Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sob
 ## Visão Geral
 
 Este framework é desenvolvido para auxiliar professores de Engenharia de Software no planejamento e execução de suas aulas, assegurando um processo de ensino eficaz e engajador.
-O **Framework para Aulas Invertidas em Engenharia de Software** foi desenvolvido para transformar a abordagem tradicional de ensino, facilitando a criação e a gestão de aulas invertidas de forma eficiente e integrada. Nossa solução oferece uma maneira simples e direta de preparar suas aulas, combinando teoria e prática com a motivação adicional dos elementos de gamificação.
+O framework **GamIES** foi desenvolvido para transformar a abordagem tradicional de ensino, facilitando a criação e a gestão de aulas invertidas de forma eficiente e integrada. Nossa solução oferece uma maneira simples e direta de preparar suas aulas, combinando teoria e prática com a motivação adicional dos elementos de gamificação.
 
 ## Principais Objetivos
 

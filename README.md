@@ -46,8 +46,8 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 10%; margin-right: 30px;">
-  <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 10%;">
+  <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 15%; margin-right: 50px;">
+  <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 15%;">
 </div>
 
 #### Por que Fazer?

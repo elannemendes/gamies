@@ -45,11 +45,9 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 
 #### Elementos de gamificação associados
 
-![Elementos de gamificação/Competicao.png](https://github.com/elannemendes/framework/blob/main/Elementos%20de%20gamifica%C3%A7%C3%A3o/Badges.png)
-
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://drive.google.com/file/d/1cHoE9UD9p2vjcZvfTQRc6bwOeQdQsIKz/view?usp=sharing" alt="Badges" style="width: 12%; margin-right: 60px; pointer-events: none;">
-    <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Competicao.png" alt="Badges" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="[Elementos de gamificação/Competicao.png](https://drive.google.com/file/d/1uteVhQDvAHh-toCcnFwlggM4oTcZeWk9/view)" alt="Competição" style="width: 12%; pointer-events: none;">
 </div>
 
 #### Por que Fazer?

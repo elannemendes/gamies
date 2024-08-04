@@ -43,6 +43,13 @@ Este framework proporciona uma solução completa e flexível para o planejament
 
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="URL_DA_SUA_IMAGEM_1" alt="Descrição da imagem 1" style="width: 45%; margin-right: 10px;">
+  <img src="URL_DA_SUA_IMAGEM_2" alt="Descrição da imagem 2" style="width: 45%;">
+</div>
+
 #### Por que Fazer?
 
 Isso permite identificar lacunas de aprendizado e ajustar o material de estudo de acordo com as necessidades individuais e coletivas dos estudantes. Além disso, também é uma oportunidade para que os estudantes se envolvam ativamente no processo de aprendizagem e reflitam sobre seus conhecimentos.

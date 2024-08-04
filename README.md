@@ -105,6 +105,14 @@ Outro elemento de gamificação que pode ser utilizado é o de progressão, incl
 
 Instrumento de avaliação que deve ser aplicado antes da aula prática, com o propósito de verificar o conhecimento adquirido pelos alunos sobre o tema abordado no roteiro de estudo disponibilizado pelo professor.
 
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Feedback.png" alt="Feedback" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+</div>
+
 #### Por que Fazer?
 
 O objetivo da avaliação pré-aula é identificar as lacunas do conhecimento do aluno e orientá-lo sobre quais tópicos precisam ser revistos ou reforçados durante o estudo. Além disso, essa avaliação também é importante para que o aluno formule dúvidas relacionadas ao assunto que podem ser direcionadas ao professor durante o momento em sala de aula.
@@ -132,6 +140,16 @@ Utilizar elementos visuais para fornecer um feedback imediato. Quando o usuário
 
 Atividades práticas realizadas na sala de aula ou no encontro da turma com o professor. Essas atividades podem envolver a resolução de problemas, simulações, jogos educacionais, quizzes, entre outras atividades relacionadas ao assunto abordado nos materiais disponibilizados anteriormente.
 
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Equipes.png" alt="Equipes" style="width: 12%; pointer-events: none;">
+</div>
+
 #### Por que Fazer?
 
 Para que os alunos possam exercitar o conhecimento adquirido durante os estudos em casa. Durante este momento, o professor também pode responder às dúvidas dos alunos e avaliar o nível de compreensão da turma e ajustar suas explicações de acordo com as necessidades dos alunos.
@@ -158,6 +176,12 @@ Para promover a participação e melhor interação entre os alunos, alguns elem
 #### Descrição
 
 Instrumento de avaliação que deve ser aplicado após a realização da aula prática, com o intuito de verificar o grau de compreensão e assimilação dos conteúdos pelos estudantes.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%; pointer-events: none;">
+</div>
 
 #### Por que Fazer?
 

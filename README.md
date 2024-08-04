@@ -46,7 +46,8 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
 </div>
 
 #### Por que Fazer?
@@ -71,6 +72,13 @@ Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos
 #### Descrição
 
 Serve como guia para os alunos, no momento de preparação para as atividades em sala. Materiais de estudos são disponibilizados pelo professor para que o aluno estude e aprenda o conteúdo em casa.
+
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 12%; pointer-events: none;">
+</div>
 
 #### Por que Fazer?
 

@@ -78,6 +78,7 @@ Serve como guia para os alunos, no momento de preparação para as atividades em
 <div style="display: flex; justify-content: space-between;">
     <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; margin-right: 60px; pointer-events: none;">
     <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Narrativa.png" alt="Narrativa" style="width: 12%; pointer-events: none;">
 </div>
 
 #### Por que Fazer?

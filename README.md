@@ -7,6 +7,7 @@ Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sob
 - [Visão Geral](#visao-geral)
 - [Principais Objetivos](#principais-objetivos)
 - [Como Funciona](#como-funciona)
+- [Estrutura](#estrutura)
 - [Documentação](#documentacao)
 - [Contribuições](#contribuicoes)
 - [Licença](#licenca)

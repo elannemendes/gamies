@@ -36,7 +36,7 @@ Este framework proporciona uma solução completa e flexível para o planejament
 
 Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
 
-## Documentação
+## Estrutura
 
 ### Avaliação Diagnóstica
 

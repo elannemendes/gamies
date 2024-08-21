@@ -47,7 +47,11 @@ A estrutura do framework é dividida em quatro partes: planejamento e preparaç�
 -- Abaixo algumas indicações sobre a disponibilidade dos materiais para os alunos:
 --- Avaliação Diagnóstica, Roteiro de Estudos e Avaliação Pré-Aula: Devem ser disponibilizados juntos, é indicado liberar este material com pelo menos cinco dias antes do encontro com a turma (Atividade Prática).
 --- Atividade Prática: Deve ser realizada na data definida no cronograma.
---- Avaliação Pós-Aula: Deve ser disponibilizado na mesma data da realização da Atividade Prática, após o encontro com a turma.  
+--- Avaliação Pós-Aula: Deve ser disponibilizado na mesma data da realização da Atividade Prática, após o encontro com a turma.
+
+- Item 1 
+  - Subitem 1.1
+    - Subitem 1.1.1
 
 ## Ciclo de Aprendizagem
 O ciclo de aprendizagem do framework é baseado no processo de aprendizagem da metodologia de sala de aula invertida e é divido em cinco etapas: Avaliação Diagnostica, Roteiro do Estudos, Avaliação Pré-Aula, Atividade Prática e Avaliação Pós-Aula. Apenas a Atividade Prática é realizada na sala de aula, as demais etapas são realizadas pelo aluno fora da sala de aula. O ciclo se repete a cada novo tópico do conteúdo abordado. A quantidade de tópicos e o cronograma das atividades são definidas pelo professor na etapa de planejamento e preparação. A seguir são detalhadas todas estas etapas.

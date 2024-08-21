@@ -59,7 +59,7 @@ O ciclo de aprendizagem do framework é baseado no processo de aprendizagem da m
 
 #### Descrição
 
-![Pontuação](https://github.com/elannemendes/gamies/blob/main/Elementos%20de%20gamifica%C3%A7%C3%A3o/Pontuacao.png)
+[![Pontuação](https://github.com/elannemendes/gamies/blob/main/Elementos%20de%20gamifica%C3%A7%C3%A3o/Pontuacao.png)(#texto)]
 
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 

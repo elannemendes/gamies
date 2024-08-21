@@ -7,6 +7,7 @@ Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sob
 - [Visão Geral](#visao-geral)
 - [Principais Objetivos](#principais-objetivos)
 - [Como Funciona](#como-funciona)
+- [Estrutura](#estrutura)
 - [Documentação](#documentacao)
 - [Contribuições](#contribuicoes)
 - [Licença](#licenca)
@@ -19,23 +20,21 @@ O framework **GamIES** foi desenvolvido para transformar a abordagem tradicional
 
 ## Principais Objetivos
 
-- **Início Rápido e Eficiente**: Fornecer uma plataforma que permita aos professores criar e gerenciar aulas invertidas com agilidade, reduzindo o tempo necessário para preparar materiais e atividades.
+- **Início Rápido e Eficiente**: Fornecer uma estrutura que permita aos professores criar e gerenciar aulas invertidas com agilidade, reduzindo o tempo necessário para preparar materiais e atividades.
 
 - **Integração Fluida de Gamificação**: Incorporar elementos de gamificação, como pontuação, recompensas e desafios, para tornar o processo de aprendizado mais envolvente e motivador, incentivando a participação ativa dos alunos.
-
-- **Personalização Adaptativa**: Oferecer ferramentas para ajustar o conteúdo das aulas e as atividades de acordo com o nível de conhecimento prévio dos alunos e suas necessidades específicas, garantindo uma abordagem personalizada e eficaz.
 
 - **Avaliação Contínua e Abrangente**: Integrar mecanismos de avaliação, desde a avaliação diagnóstica até a pós-aula, para monitorar o progresso dos alunos, identificar lacunas no conhecimento e adaptar o ensino conforme necessário.
 
 - **Foco na Aplicação Prática**: Facilitar a realização de atividades práticas que complementem o conteúdo teórico estudado, promovendo a aplicação prática do conhecimento e a resolução de problemas reais.
 
-Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
-
 ## Como Funciona
 
 Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
 
-## Documentação
+## Estrutura
+
+A estrutura do framework é dividida em quatro partes: planejamento e preparação, ciclo de aprendizagem, sistema de gamificação e troca de pontos.
 
 ### Avaliação Diagnóstica
 
@@ -45,9 +44,11 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 
 #### Elementos de gamificação associados
 
+[![Texto alternativo](Elementos de gamificação/Pontuacao.png)](###como-fazer)
+
 <div style="display: flex; justify-content: space-between;">
-    <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%; margin-right: 60px; pointer-events: none;">
-    <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
 </div>
 
 #### Por que Fazer?
@@ -58,7 +59,7 @@ Isso permite identificar lacunas de aprendizado e ajustar o material de estudo d
 
 Geralmente, é realizada por meio de testes, questionários ou atividades que possibilitam ao professor ter um panorama sobre o nível de conhecimento do aluno.
 
-Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.
+Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem. 
 
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 
@@ -72,6 +73,14 @@ Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos
 #### Descrição
 
 Serve como guia para os alunos, no momento de preparação para as atividades em sala. Materiais de estudos são disponibilizados pelo professor para que o aluno estude e aprenda o conteúdo em casa.
+
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Narrativa.png" alt="Narrativa" style="width: 12%; pointer-events: none;">
+</div>
 
 #### Por que Fazer?
 
@@ -97,6 +106,14 @@ Outro elemento de gamificação que pode ser utilizado é o de progressão, incl
 #### Descrição
 
 Instrumento de avaliação que deve ser aplicado antes da aula prática, com o propósito de verificar o conhecimento adquirido pelos alunos sobre o tema abordado no roteiro de estudo disponibilizado pelo professor.
+
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Feedback.png" alt="Feedback" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+</div>
 
 #### Por que Fazer?
 
@@ -125,6 +142,16 @@ Utilizar elementos visuais para fornecer um feedback imediato. Quando o usuário
 
 Atividades práticas realizadas na sala de aula ou no encontro da turma com o professor. Essas atividades podem envolver a resolução de problemas, simulações, jogos educacionais, quizzes, entre outras atividades relacionadas ao assunto abordado nos materiais disponibilizados anteriormente.
 
+#### Elementos de gamificação associados
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Equipes.png" alt="Equipes" style="width: 12%; pointer-events: none;">
+</div>
+
 #### Por que Fazer?
 
 Para que os alunos possam exercitar o conhecimento adquirido durante os estudos em casa. Durante este momento, o professor também pode responder às dúvidas dos alunos e avaliar o nível de compreensão da turma e ajustar suas explicações de acordo com as necessidades dos alunos.
@@ -152,6 +179,12 @@ Para promover a participação e melhor interação entre os alunos, alguns elem
 
 Instrumento de avaliação que deve ser aplicado após a realização da aula prática, com o intuito de verificar o grau de compreensão e assimilação dos conteúdos pelos estudantes.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%; pointer-events: none;">
+</div>
+
 #### Por que Fazer?
 
 A avaliação pós-aula permite ao professor identificar se os objetivos de aprendizagem foram alcançados e se é necessário reforçar algum conteúdo. Também oferece aos alunos a oportunidade de revisar o conteúdo aprendido.
@@ -164,6 +197,23 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 
 - Questionário com questões de múltipla escolha
 - Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário
+
+
+### Sistema de gamificação
+
+### Troca de pontos
+
+
+## Ferramentas de apoio
+
+Classcraft
+Classcraft é uma plataforma de gamificação voltada para o ambiente educacional. Ela transforma a sala de aula em um jogo de RPG (Role-Playing Game), onde os alunos podem criar avatares, ganhar pontos de experiência, completar missões e trabalhar em equipes. O objetivo é aumentar o engajamento dos alunos, promover a colaboração e melhorar o comportamento. Com esta ferramenta é possível fornecer um ambiente gamificado, onde o aluno percorre as fases por meio dos roteiros de estudos e avaliações. As pontuações podem ser destinadas de forma automática.
+
+Google Forms
+O Google Forms é uma ferramenta gratuita do Google que permite criar formulários, questionários e pesquisas online. Ele é amplamente utilizado para coletar dados de forma simples e eficiente. As respostas são automaticamente registradas em uma planilha do Google Sheets, facilitando a análise dos dados. A ferramenta é útil para criar avaliações, pesquisas de feedback, inscrições e muito mais. Com esta ferramenta é possível elaborar os questionários online para as avaliações e roteiros de estudos.
+
+Google Data Studio
+O Google Data Studio é uma ferramenta de visualização de dados que permite criar relatórios e dashboards interativos a partir de diversas fontes de dados, como Google Sheets, Google Analytics, e muitas outras. É ideal para transformar dados brutos em insights visuais, facilitando a tomada de decisões. Com ele, é possível personalizar gráficos, tabelas e outros elementos visuais para criar relatórios dinâmicos que podem ser compartilhados com facilidade. Com esta ferramenta é possivel fornecer um feedback aos alunos sobre as suas pontuações e processo na experiência gamificada.
 
 ## Contribuições
 

@@ -36,6 +36,22 @@ Este framework proporciona uma solução completa e flexível para o planejament
 
 A estrutura do framework é dividida em quatro partes: planejamento e preparação, ciclo de aprendizagem, sistema de gamificação e troca de pontos.
 
+## Planejamento e Preparação
+- Definição do conteúdo: O professor deve definir o tema que será ensinado para os alunos.  
+- Definição do tópicos: Com o conteúdo a ser abordado definido, o professor deverá separar o contéudo em tópicos menores, para que o material a ser disponibilizado para estudos não fique extenso.
+- Definição e Elaboração do material: 
+- Definição do cronograma: No cronograma deve ser descrito para cada tópico do conteúdo a data de liberação de cada material (de acordo com os artefatos produzidos, com base no ciclo de aprendizagem do framework GamIES) para alunos, como também o prazo de entrega.
+      Lembrando que para os roteiros de estudo o prazo precisa ser superior aos demais materiais, já que este precisa de mais tempo de dedicação do aluno para conclui-lo.
+      Uma boa prática é indicar no ínicio do roteiro quanto tempo em média o aluno precisará estudar para concluir o roteiro.
+      Abaixo algumas indicações sobre a disponibilidade dos materiais para os alunos:
+      - Avaliação Diagnóstica, Roteiro de Estudos e Avaliação Pré-Aula: Devem ser disponibilizados juntos, é indicado liberar este material com pelo menos cinco dias antes do encontro com a turma (Atividade Prática).
+      - Atividade Prática: Deve ser realizada na data definida no cronograma.
+      - Avaliação Pós-Aula: Deve ser disponibilizado na mesma data da realização da Atividade Prática, após o encontro com a turma.  
+
+## Ciclo de Aprendizagem
+O ciclo de aprendizagem do framework é baseado no processo de aprendizagem da metodologia de sala de aula invertida e é divido em cinco etapas: Avaliação Diagnostica, Roteiro do Estudos, Avaliação Pré-Aula, Atividade Prática e Avaliação Pós-Aula. Apenas a Atividade Prática é realizada na sala de aula, as demais etapas são realizadas pelo aluno fora da sala de aula. O ciclo se repete a cada novo tópico do conteúdo abordado. A quantidade de tópicos e o cronograma das atividades são definidas pelo professor na etapa de planejamento e preparação. A seguir são detalhadas todas estas etapas.
+
+
 ### Avaliação Diagnóstica
 
 #### Descrição
@@ -43,8 +59,6 @@ A estrutura do framework é dividida em quatro partes: planejamento e preparaç�
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 
 #### Elementos de gamificação associados
-
-[![Texto alternativo](Elementos de gamificação/Pontuacao.png)](###como-fazer)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">

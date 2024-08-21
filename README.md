@@ -59,11 +59,13 @@ O ciclo de aprendizagem do framework é baseado no processo de aprendizagem da m
 
 #### Descrição
 
+![Pontuação](Elementos de gamificação/Pontuacao.png)
+
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 
 #### Elementos de gamificação associados
 
-![Pontuação](Elementos de gamificação/Pontuacao.png)
+
 <div style="display: flex; justify-content: space-between;">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: (#texto);">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">

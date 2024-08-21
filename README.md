@@ -41,19 +41,17 @@ A estrutura do framework é dividida em quatro partes: planejamento e preparaç�
 - Definição do tópicos: Com o conteúdo a ser abordado definido, o professor deverá separar o contéudo em tópicos menores, para que o material a ser disponibilizado para estudos não fique extenso.
 - Definição e Elaboração do material: 
 - Definição do cronograma:
-  - No cronograma deve ser descrito para cada tópico do conteúdo a data de liberação de cada material (de acordo com os artefatos produzidos, com base no ciclo de aprendizagem do framework GamIES) para alunos, como também o prazo de entrega.
-  - Lembrando que para os roteiros de estudo o prazo precisa ser superior aos demais materiais, já que este precisa de mais tempo de dedicação do aluno para conclui-lo.
+  - No cronograma deve ser descrito para cada tópico do conteúdo a data de liberação de cada material para alunos (de acordo com os artefatos produzidos, com base no ciclo de aprendizagem do framework GamIES), como também o prazo de entrega e a data do encontro com a turma.
+  - Lembrando que para os roteiros de estudo o prazo de resposta precisa ser superior aos demais materiais, já que este precisa de mais tempo de dedicação do aluno para conclui-lo.
   - Uma boa prática é indicar no ínicio do roteiro quanto tempo em média o aluno precisará estudar para concluir o roteiro.
   - Abaixo algumas indicações sobre a disponibilidade dos materiais para os alunos:
     - Avaliação Diagnóstica, Roteiro de Estudos e Avaliação Pré-Aula: Devem ser disponibilizados juntos, é indicado liberar este material com pelo menos cinco dias antes do encontro com a turma (Atividade Prática).
     - Atividade Prática: Deve ser realizada na data definida no cronograma.
     - Avaliação Pós-Aula: Deve ser disponibilizado na mesma data da realização da Atividade Prática, após o encontro com a turma.
 
-- Item 1 
-  - Subitem 1.1
-    - Subitem 1.1.1
 
 ## Ciclo de Aprendizagem
+
 O ciclo de aprendizagem do framework é baseado no processo de aprendizagem da metodologia de sala de aula invertida e é divido em cinco etapas: Avaliação Diagnostica, Roteiro do Estudos, Avaliação Pré-Aula, Atividade Prática e Avaliação Pós-Aula. Apenas a Atividade Prática é realizada na sala de aula, as demais etapas são realizadas pelo aluno fora da sala de aula. O ciclo se repete a cada novo tópico do conteúdo abordado. A quantidade de tópicos e o cronograma das atividades são definidas pelo professor na etapa de planejamento e preparação. A seguir são detalhadas todas estas etapas.
 
 
@@ -66,7 +64,7 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: texto;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
 </div>
 
@@ -78,7 +76,7 @@ Isso permite identificar lacunas de aprendizado e ajustar o material de estudo d
 
 Geralmente, é realizada por meio de testes, questionários ou atividades que possibilitam ao professor ter um panorama sobre o nível de conhecimento do aluno.
 
-Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem. 
+<a name="texto">Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.</a>
 
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 
@@ -164,7 +162,7 @@ Atividades práticas realizadas na sala de aula ou no encontro da turma com o pr
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: ;">
     <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
@@ -220,18 +218,20 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 
 ### Sistema de gamificação
 
+
+
 ### Troca de pontos
 
 
 ## Ferramentas de apoio
 
-Classcraft
-Classcraft é uma plataforma de gamificação voltada para o ambiente educacional. Ela transforma a sala de aula em um jogo de RPG (Role-Playing Game), onde os alunos podem criar avatares, ganhar pontos de experiência, completar missões e trabalhar em equipes. O objetivo é aumentar o engajamento dos alunos, promover a colaboração e melhorar o comportamento. Com esta ferramenta é possível fornecer um ambiente gamificado, onde o aluno percorre as fases por meio dos roteiros de estudos e avaliações. As pontuações podem ser destinadas de forma automática.
+- **Classcraft**
+  - Classcraft é uma plataforma de gamificação voltada para o ambiente educacional. Ela transforma a sala de aula em um jogo de RPG (Role-Playing Game), onde os alunos podem criar avatares, ganhar pontos de experiência, completar missões e trabalhar em equipes. O objetivo é aumentar o engajamento dos alunos, promover a colaboração e melhorar o comportamento. Com esta ferramenta é possível fornecer um ambiente gamificado, onde o aluno percorre as fases por meio dos roteiros de estudos e avaliações. As pontuações podem ser destinadas de forma automática.
 
-Google Forms
+- **Google Forms**
 O Google Forms é uma ferramenta gratuita do Google que permite criar formulários, questionários e pesquisas online. Ele é amplamente utilizado para coletar dados de forma simples e eficiente. As respostas são automaticamente registradas em uma planilha do Google Sheets, facilitando a análise dos dados. A ferramenta é útil para criar avaliações, pesquisas de feedback, inscrições e muito mais. Com esta ferramenta é possível elaborar os questionários online para as avaliações e roteiros de estudos.
 
-Google Data Studio
+- **Google Data Studio**
 O Google Data Studio é uma ferramenta de visualização de dados que permite criar relatórios e dashboards interativos a partir de diversas fontes de dados, como Google Sheets, Google Analytics, e muitas outras. É ideal para transformar dados brutos em insights visuais, facilitando a tomada de decisões. Com ele, é possível personalizar gráficos, tabelas e outros elementos visuais para criar relatórios dinâmicos que podem ser compartilhados com facilidade. Com esta ferramenta é possivel fornecer um feedback aos alunos sobre as suas pontuações e processo na experiência gamificada.
 
 ## Contribuições

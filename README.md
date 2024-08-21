@@ -36,6 +36,8 @@ Este framework proporciona uma solução completa e flexível para o planejament
 
 A estrutura do framework é dividida em quatro partes: planejamento e preparação, ciclo de aprendizagem, sistema de gamificação e troca de pontos.
 
+<img src="Estrutura/estrutura-framework" alt="Estrutura" style="width: 50%; pointer-events: none;">
+
 ## Planejamento e Preparação
 - Definição do conteúdo: O professor deve definir o tema que será ensinado para os alunos.  
 - Definição do tópicos: Com o conteúdo a ser abordado definido, o professor deverá separar o contéudo em tópicos menores, para que o material a ser disponibilizado para estudos não fique extenso.
@@ -59,15 +61,13 @@ O ciclo de aprendizagem do framework é baseado no processo de aprendizagem da m
 
 #### Descrição
 
-[![Pontuação](https://github.com/elannemendes/gamies/blob/main/Elementos%20de%20gamifica%C3%A7%C3%A3o/Pontuacao.png)](#texto)
-
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 
 #### Elementos de gamificação associados
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="#texto">
+  <a href="#game-dig">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
   </a>
@@ -81,8 +81,8 @@ Isso permite identificar lacunas de aprendizado e ajustar o material de estudo d
 
 Geralmente, é realizada por meio de testes, questionários ou atividades que possibilitam ao professor ter um panorama sobre o nível de conhecimento do aluno.
 
-<a name="texto"></a>
-Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.
+<a name="game-dig"></a>
+Adoção de elementos de Gamificação, como **pontuação** e **recompensas**, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.
 
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 

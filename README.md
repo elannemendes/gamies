@@ -36,7 +36,7 @@ Este framework proporciona uma solução completa e flexível para o planejament
 
 A estrutura do framework é dividida em quatro partes: planejamento e preparação, ciclo de aprendizagem, sistema de gamificação e troca de pontos.
 
-<img src="Estrutura/estrutura-framework" alt="Estrutura" style="width: 50%; pointer-events: none;">
+<img src="Estrutura/estrutura-framework.png" alt="Estrutura" style="width: 50%; pointer-events: none;">
 
 ## Planejamento e Preparação
 - Definição do conteúdo: O professor deve definir o tema que será ensinado para os alunos.  

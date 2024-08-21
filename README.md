@@ -77,7 +77,8 @@ Isso permite identificar lacunas de aprendizado e ajustar o material de estudo d
 
 Geralmente, é realizada por meio de testes, questionários ou atividades que possibilitam ao professor ter um panorama sobre o nível de conhecimento do aluno.
 
-<a name="texto">Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.</a>
+<a name="texto"></a>
+Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.
 
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 

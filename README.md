@@ -67,7 +67,7 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="#secao-sobre-a-imagem">
+  <a href="#texto">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
   </a>

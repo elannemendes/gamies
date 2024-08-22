@@ -1,4 +1,4 @@
-# GamIES: Um framework para Gamificação de Sala de Aula Invertida em Engenharia de Software
+![estrutura-framework4](https://github.com/user-attachments/assets/9f3d9ed0-bd8d-42fa-9bd3-78a48a6edd79)# GamIES: Um framework para Gamificação de Sala de Aula Invertida em Engenharia de Software
 
 Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sobre como aplicar nosso framework para integrar elementos de gamificação em suas aulas invertidas, potencializando a motivação e o engajamento dos alunos.
 
@@ -12,29 +12,73 @@ Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sob
 - [Contribuições](#contribuicoes)
 - [Licença](#licenca)
 
+### Visão Geral
 
-## Visão Geral
+O **GamIES** é um framework desenvolvido para auxiliar professores de Engenharia de Software no planejamento e execução de suas aulas, promovendo um processo de ensino mais eficaz e envolvente. O framework visa transformar a abordagem tradicional, facilitando a criação e gestão de aulas invertidas de maneira integrada, combinando teoria, prática e elementos de gamificação.
 
-Este framework é desenvolvido para auxiliar professores de Engenharia de Software no planejamento e execução de suas aulas, assegurando um processo de ensino eficaz e engajador.
-O framework **GamIES** foi desenvolvido para transformar a abordagem tradicional de ensino, facilitando a criação e a gestão de aulas invertidas de forma eficiente e integrada. Nossa solução oferece uma maneira simples e direta de preparar suas aulas, combinando teoria e prática com a motivação adicional dos elementos de gamificação.
+### Principais Objetivos
 
-## Principais Objetivos
+- **Eficiência no Planejamento**: Fornecer uma estrutura que permita aos professores criar e gerenciar aulas invertidas com agilidade, otimizando o tempo de preparação de materiais e atividades.
 
-- **Início Rápido e Eficiente**: Fornecer uma estrutura que permita aos professores criar e gerenciar aulas invertidas com agilidade, reduzindo o tempo necessário para preparar materiais e atividades.
+- **Integração da Gamificação**: Integrar elementos de gamificação, como pontuação e recompensas, para aumentar o engajamento dos alunos e incentivar a participação ativa.
 
-- **Integração Fluida de Gamificação**: Incorporar elementos de gamificação, como pontuação, recompensas e desafios, para tornar o processo de aprendizado mais envolvente e motivador, incentivando a participação ativa dos alunos.
-
-- **Avaliação Contínua e Abrangente**: Integrar mecanismos de avaliação, desde a avaliação diagnóstica até a pós-aula, para monitorar o progresso dos alunos, identificar lacunas no conhecimento e adaptar o ensino conforme necessário.
+- **Avaliação Contínua**: Implementar mecanismos de avaliação que permitam monitorar o progresso dos alunos de forma contínua, permitindo adaptar o ensino conforme necessário para suprir lacunas no aprendizado.
 
 - **Foco na Aplicação Prática**: Facilitar a realização de atividades práticas que complementem o conteúdo teórico estudado, promovendo a aplicação prática do conhecimento e a resolução de problemas reais.
 
+
 ## Como Funciona
 
-Este framework proporciona uma solução completa e flexível para o planejamento de aulas invertidas, combinando a eficiência na preparação de conteúdo com a motivação adicional dos elementos de gamificação. Com nossa abordagem, você pode criar experiências de aprendizado ricas e dinâmicas, com mínima configuração e máxima eficácia.
+Este framework oferece uma estrutura detalhada para orientar a elaboração dos materiais necessários para a implementação de aulas invertidas, integrando de forma eficaz elementos de gamificação para enriquecer o processo de ensino e aprendizagem. Esta integração permite criar um ambiente de aprendizagem mais envolvente e dinâmico, facilitando a aplicação prática dos conceitos e promovendo uma maior interação e motivação dos alunos.
+
 
 ## Estrutura
 
-A estrutura do framework é dividida em quatro partes: planejamento e preparação, ciclo de aprendizagem, sistema de gamificação e troca de pontos.
+O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Estrutura/estrutura-framework1.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <img src="Estrutura/estrutura-framework2.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <img src="Estrutura/estrutura-framework3.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <img src="Estrutura/estrutura-framework4.png" alt="Estrutura" style="width: 50%; pointer-events: none;">
+<\div>
+
+### 1. Planejamento e Preparação
+
+Esta etapa é fundamental para garantir que o conteúdo seja apresentado de maneira clara e organizada. As principais atividades incluem:
+
+- **Definição do Conteúdo**: O professor deve selecionar o tema principal que será ensinado aos alunos. Por exemplo, na disciplina de Engenharia de Software, o tema escolhido pode ser Engenharia de Requisitos.
+  
+- **Segmentação dos Tópicos**: Após definir o conteúdo, o professor deve dividir o material em tópicos menores e gerenciáveis, garantindo que o material de estudo não seja excessivamente longo ou denso. Por exemplo, o tema de Engenharia de Requisitos poderia ser subdividido em tópicos como Conceitos e Tipos de Requisitos, Elicitação de Requisitos, Especificação de Requisitos e Gerenciamento de Requisitos.
+
+- **Elaboração do Material**: O material didático deve ser preparado de acordo com os tópicos definidos, garantindo que todos os recursos necessários para o aprendizado estejam disponíveis. Para isso, o professor deve seguir as instruções do ciclo de aprendizagem, que descrevem em detalhes cada material e orientam sua elaboração.
+
+- **Definição do Cronograma**:
+  - O cronograma deve detalhar as datas de liberação de cada material para os alunos, os prazos de entrega, e as datas dos encontros presenciais.
+  - Para os roteiros de estudo, é recomendável um prazo mais extenso devido à sua complexidade e o tempo necessário para a conclusão.
+  - Uma prática recomendada é indicar, no início do roteiro, o tempo médio estimado que o aluno precisará para completar o estudo.
+  - **Diretrizes para a Disponibilidade dos Materiais**:
+    - **Avaliação Diagnóstica**, **Roteiro de Estudos** e **Avaliação Pré-Aula**: Estes devem ser disponibilizados juntos, idealmente com pelo menos cinco dias de antecedência em relação ao encontro com a turma ([Atividade Prática](#atividade-prática)).
+    - **Atividade Prática**: Deve ser realizada na data estabelecida no cronograma.
+    - **Avaliação Pós-Aula**: Deve ser disponibilizada no mesmo dia da [Atividade Prática](#atividade-prática), após o encontro com a turma.
+
+
+### 2. Ciclo de Aprendizagem
+
+O ciclo de aprendizagem no framework GamIES é inspirado na metodologia de sala de aula invertida e é dividido em cinco etapas:
+
+- **[Avaliação Diagnóstica](#avaliação-diagnóstica)**: Avaliação inicial para verificar o conhecimento prévio dos alunos sobre o tema. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Diagnóstica](#avaliação-diagnóstica).
+
+- **[Roteiro de Estudos](#roteiro-de-estudos)**: Material que orienta o estudo dos alunos, preparado com base nos tópicos definidos na etapa de planejamento. A elaboração e a estrutura do roteiro são abordadas na seção [Roteiro de Estudos](#roteiro-de-estudos).
+
+- **[Avaliação Pré-Aula](#avaliação-pré-aula)**: Verificação do aprendizado obtido pelos alunos após a realização do [Roteiro de Estudos](#roteiro-de-estudos). Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pré-Aula](#avaliação-pré-aula).
+
+- **[Atividade Prática](#atividade-prática)**: Atividade realizada em sala de aula, focada na aplicação prática dos conceitos estudados. Instruções para a definição e execução das atividades são fornecidas na seção [Atividade Prática](#atividade-prática).
+
+- **[Avaliação Pós-Aula](#avaliação-pós-aula)**: Avaliação realizada após o encontro prático, com o objetivo de consolidar o aprendizado e identificar pontos que ainda necessitam de reforço. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pós-Aula](#avaliação-pós-aula).
+
+Este ciclo se repete para cada novo tópico abordado no conteúdo, com a quantidade de tópicos e o cronograma das atividades sendo definidos na fase de [Planejamento e Preparação](#planejamento-e-preparação).
+
 
 ### Avaliação Diagnóstica
 
@@ -44,11 +88,12 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 
 #### Elementos de gamificação associados
 
-[![Texto alternativo](Elementos de gamificação/Pontuacao.png)](###como-fazer)
 
 <div style="display: flex; justify-content: space-between;">
+  <a href="#game-dig">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+  </a>
 </div>
 
 #### Por que Fazer?
@@ -59,7 +104,8 @@ Isso permite identificar lacunas de aprendizado e ajustar o material de estudo d
 
 Geralmente, é realizada por meio de testes, questionários ou atividades que possibilitam ao professor ter um panorama sobre o nível de conhecimento do aluno.
 
-Adoção de elementos de Gamificação, como pontuação e recompensas, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem. 
+<a name="game-dig"></a>
+Adoção de elementos de Gamificação, como **pontuação** e **recompensas**, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.
 
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 
@@ -145,7 +191,7 @@ Atividades práticas realizadas na sala de aula ou no encontro da turma com o pr
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: ;">
     <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
@@ -201,26 +247,51 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 
 ### Sistema de gamificação
 
+
+
 ### Troca de pontos
 
 
-## Ferramentas de apoio
+## Ferramentas de Apoio
 
-Classcraft
-Classcraft é uma plataforma de gamificação voltada para o ambiente educacional. Ela transforma a sala de aula em um jogo de RPG (Role-Playing Game), onde os alunos podem criar avatares, ganhar pontos de experiência, completar missões e trabalhar em equipes. O objetivo é aumentar o engajamento dos alunos, promover a colaboração e melhorar o comportamento. Com esta ferramenta é possível fornecer um ambiente gamificado, onde o aluno percorre as fases por meio dos roteiros de estudos e avaliações. As pontuações podem ser destinadas de forma automática.
+Nesta seção, apresentamos as principais ferramentas que auxiliam na implementação do framework **GamIES**, proporcionando suporte para a gamificação e o planejamento de aulas invertidas. Cada uma dessas plataformas desempenha um papel fundamental na condução das atividades, desde a criação de ambientes gamificados até a coleta e visualização de dados para oferecer feedback contínuo aos alunos.
 
-Google Forms
-O Google Forms é uma ferramenta gratuita do Google que permite criar formulários, questionários e pesquisas online. Ele é amplamente utilizado para coletar dados de forma simples e eficiente. As respostas são automaticamente registradas em uma planilha do Google Sheets, facilitando a análise dos dados. A ferramenta é útil para criar avaliações, pesquisas de feedback, inscrições e muito mais. Com esta ferramenta é possível elaborar os questionários online para as avaliações e roteiros de estudos.
+### Classcraft
 
-Google Data Studio
-O Google Data Studio é uma ferramenta de visualização de dados que permite criar relatórios e dashboards interativos a partir de diversas fontes de dados, como Google Sheets, Google Analytics, e muitas outras. É ideal para transformar dados brutos em insights visuais, facilitando a tomada de decisões. Com ele, é possível personalizar gráficos, tabelas e outros elementos visuais para criar relatórios dinâmicos que podem ser compartilhados com facilidade. Com esta ferramenta é possivel fornecer um feedback aos alunos sobre as suas pontuações e processo na experiência gamificada.
+[**Classcraft**](https://www.classcraft.com) é uma plataforma de gamificação especialmente projetada para o ambiente educacional. Ela transforma a sala de aula em um jogo de RPG (Role-Playing Game), onde os alunos podem criar avatares personalizados, ganhar pontos de experiência, completar missões e trabalhar em equipes.
 
-## Contribuições
+No **GamIES**, essa ferramenta é essencial para fornecer um ambiente gamificado em que os alunos percorrem fases usando os roteiros de estudo e as avaliações. As pontuações são atribuídas automaticamente, alinhando-se à experiência gamificada, criando um cenário envolvente que apoia a jornada educacional dos alunos.
 
-Se você deseja contribuir para o desenvolvimento deste framework, por favor, leia nosso [Guia de Contribuições](CONTRIBUTING.md).
+### Google Forms
 
-## Licença
+[**Google Forms**](https://www.google.com/forms/about/) é uma ferramenta gratuita e poderosa do Google que permite criar formulários, questionários e pesquisas online com facilidade. Ela é amplamente utilizada em ambientes educacionais para coletar dados, realizar avaliações, e obter feedback de alunos de forma eficiente.
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+No **GamIES**, o Google Forms é essencial para criar avaliações (avaliação diagnóstica, avaliação pré-aula, e avaliações pós-aula) e roteiros de estudo que compõem as fases da aula invertida. As respostas coletadas são automaticamente organizadas em planilhas do Google Sheets, facilitando a análise dos dados e o acompanhamento do progresso dos alunos.
+
+### Google Data Studio
+
+[**Google Data Studio**](https://marketingplatform.google.com/about/data-studio/) é uma ferramenta de visualização de dados que permite a criação de relatórios e dashboards interativos a partir de várias fontes de dados, como Google Sheets, Google Analytics, entre outras.
+
+No **GamIES**, o Google Data Studio é usado para fornecer feedback visual aos alunos sobre suas pontuações e progresso, permitindo que eles acompanhem sua evolução ao longo das fases de maneira clara e personalizada. Os relatórios criados podem ser facilmente compartilhados, contribuindo para uma melhor compreensão do desempenho individual e coletivo.
+
+
+### 3. Sistema de Gamificação
+
+O **Sistema de Gamificação** é uma componente essencial do framework GamIES, projetado para aumentar a motivação e o engajamento dos alunos por meio da introdução de elementos lúdicos no processo de aprendizagem. 
+
+A gamificação do framework inclui a gamificação de Aqui é definido os criterios de avaliação e validação das atividades realizadas, bem como as pontuações destinadas A gamificação inclui a utilização de:
+
+- **Pontuação**: Os alunos acumulam pontos ao completar atividades e atingir metas de aprendizagem, incentivando a competição saudável e a progressão contínua.
+- **Recompensas**: Recompensas virtuais, como badges e títulos, são concedidas para reconhecer o esforço e as conquistas dos alunos.
+
+
+### 4. Troca de Pontos
+
+A **Troca de Pontos** é uma funcionalidade que permite aos alunos utilizarem os pontos acumulados no sistema de gamificação para obter recompensas específicas, que podem variar desde vantagens acadêmicas até prêmios simbólicos. Este mecanismo inclui:
+
+- **Conversão de Pontos**: Os pontos adquiridos podem ser trocados por itens, como dicas extras em avaliações, acesso antecipado a materiais, ou até mesmo benefícios na pontuação final.
+- **Premios**: Um ambiente virtual onde os alunos podem visualizar e selecionar as recompensas disponíveis, gerenciando suas estratégias de acúmulo e uso de pontos.
+
+A troca de pontos promove a autonomia dos alunos, incentivando a autorregulação e a responsabilidade pelo próprio aprendizado, além de reforçar o valor das conquistas obtidas ao longo do curso.
 
 

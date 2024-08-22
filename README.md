@@ -95,6 +95,7 @@ Este ciclo se repete para cada novo tópico abordado no conteúdo, com a quantid
 
 Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relação ao assunto que será abordado a fim de identificar quais conteúdos ele já domina e quais apresenta dificuldades.
 
+
 #### Elementos de gamificação associados
 
 
@@ -107,7 +108,7 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 
 #### Por que Fazer?
 
-Isso permite identificar lacunas de aprendizado e ajustar o material de estudo de acordo com as necessidades individuais e coletivas dos estudantes. Além disso, também é uma oportunidade para que os estudantes se envolvam ativamente no processo de aprendizagem e reflitam sobre seus conhecimentos.
+Com a avaliação diagnóstica é possível identificar lacunas de aprendizado e ajustar o material de estudo de acordo com as necessidades individuais e coletivas dos estudantes. Além disso, também é uma oportunidade para que os estudantes se envolvam ativamente no processo de aprendizagem e reflitam sobre seus conhecimentos.
 
 #### Como Fazer?
 
@@ -116,12 +117,15 @@ Geralmente, é realizada por meio de testes, questionários ou atividades que po
 <a name="game-dig"></a>
 Adoção de elementos de Gamificação, como **pontuação** e **recompensas**, para incentivar os estudantes a se empenharem mais no estudo, criando um ambiente divertido e desafiador. A competição saudável entre os estudantes também pode aumentar a motivação e o engajamento na aprendizagem.
 
+Nesta etapa do ciclo de aprendizagem, é recomendado utilizar **recompensas** exclusivamente para reconhecer a participação ou o engajamento dos alunos. A **pontuação** deve ser empregada unicamente para monitorar o progresso dos alunos ao longo do processo de aprendizagem.
+
 Em uma abordagem de ensino adaptativa, em que o conteúdo do material de estudos pode ser personalizado, é possível fazer ajustes no material, focando nas áreas que precisam ser aprimoradas e explorando assuntos que o estudante não possui um nível de conhecimento elevado.
 
 #### Exemplos
 
-- Questionário com questões objetivas e com pontuações associadas às questões
-- Questionário auto declarativo
+- [**Questionário com questões objetivas**](https://forms.gle/MaAK6jHv2FkN35SM7): Inclui pontuações associadas às respostas.
+- **Questionário auto declarativo**: Permite aos alunos avaliar seu próprio conhecimento.
+
 
 ### Roteiro de Estudos
 
@@ -253,39 +257,10 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 - Questionário com questões de múltipla escolha
 - Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário
 
-Aqui está uma versão aprimorada do texto com links para imagens, descrições e exemplos ilustrativos:
 
----
 
-### Avaliação Diagnóstica
 
-#### Descrição
 
-A avaliação diagnóstica é uma ferramenta crucial para avaliar o conhecimento prévio dos alunos em relação ao conteúdo a ser abordado. Ela ajuda a identificar áreas de domínio e dificuldades, permitindo ajustes no material didático conforme as necessidades individuais e coletivas dos estudantes.
-
-#### Elementos de Gamificação Associados
-
-<div style="text-align: center;">
-  <a href="#game-dig">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 15%; margin-right: 30px;">
-    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 15%;">
-  </a>
-</div>
-
-#### Por que Fazer?
-
-Realizar uma avaliação diagnóstica é essencial para identificar lacunas no conhecimento dos alunos e adaptar o material de estudo. Além disso, envolve os alunos ativamente no processo de aprendizagem e estimula a reflexão sobre seu conhecimento.
-
-#### Como Fazer?
-
-A avaliação pode ser feita através de testes, questionários ou atividades que proporcionem uma visão geral do conhecimento dos alunos.
-
-Adoção de elementos de gamificação, como **pontuação** e **recompensas**, pode aumentar a motivação dos alunos, criando um ambiente de aprendizagem mais dinâmico e envolvente. Estes elementos incentivam uma competição saudável e o engajamento dos estudantes.
-
-#### Exemplos
-
-- **Questionário com questões objetivas**: Inclui pontuações associadas às respostas.
-- **Questionário auto declarativo**: Permite aos alunos avaliar seu próprio conhecimento.
 
 ### Roteiro de Estudos
 

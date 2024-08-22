@@ -435,10 +435,15 @@ No **GamIES**, o Google Data Studio é usado para fornecer feedback visual aos a
 
 O **Sistema de Gamificação** é uma componente essencial do framework GamIES, projetado para aumentar a motivação e o engajamento dos alunos por meio da introdução de elementos lúdicos no processo de aprendizagem. 
 
-A gamificação do framework inclui a gamificação de Aqui é definido os criterios de avaliação e validação das atividades realizadas, bem como as pontuações destinadas A gamificação inclui a utilização de:
+Os elementos de gamificação são integrados em cada etapa do ciclo de aprendizagem, com o objetivo de recompensar os alunos pelo desempenho nas tarefas realizadas. O foco principal está na atribuição de pontuações que refletem tanto a participação quanto o engajamento dos alunos ao longo do processo. Assim, os alunos podem ser recompensados pela participação contínua em cada fase do ciclo de aprendizagem. Por exemplo, ao concluir todas as etapas, o aluno recebe uma pontuação de 100 pontos.
+
+Aqui é definido os criterios de avaliação e validação das atividades realizadas, bem como as pontuações destinadas para cada fase / se vai ter ou não, como também as recompensas que podem ser distribuidas, em cada fase ou no sistema em geral. Os elementos de gamificação associados a cada fase podem ser consultados nas seções onde cada fase é descrita na parte de elementos de gamificação associados.
+
+A gamificação do ciclo de aprendizagem inclui a utilização de:
 
 - **Pontuação**: Os alunos acumulam pontos ao completar atividades e atingir metas de aprendizagem, incentivando a competição saudável e a progressão contínua.
 - **Recompensas**: Recompensas virtuais, como badges e títulos, são concedidas para reconhecer o esforço e as conquistas dos alunos.
+- **Ranking**: Tabelas de classificação que permite visualizar o desempenho relativo dos alunos, estimulando a participação ativa e o engajamento.
 
 
 ### 4. Troca de Pontos
@@ -449,6 +454,12 @@ A **Troca de Pontos** é uma funcionalidade que permite aos alunos utilizarem os
 - **Premios**: Um ambiente virtual onde os alunos podem visualizar e selecionar as recompensas disponíveis, gerenciando suas estratégias de acúmulo e uso de pontos.
 
 A troca de pontos promove a autonomia dos alunos, incentivando a autorregulação e a responsabilidade pelo próprio aprendizado, além de reforçar o valor das conquistas obtidas ao longo do curso.
+
+A **Troca de Pontos** é uma funcionalidade crucial que permite aos alunos utilizar os pontos acumulados no sistema de gamificação para obter recompensas específicas. Essas recompensas podem variar desde vantagens acadêmicas até prêmios simbólicos, proporcionando uma experiência mais envolvente e motivadora. Este mecanismo inclui:
+
+- **Conversão de Pontos**: Os pontos adquiridos podem ser trocados por itens úteis, como dicas extras em avaliações, acesso antecipado a materiais, ou até mesmo benefícios na pontuação final, incentivando os alunos a se empenharem ainda mais em suas atividades.
+
+- **Prêmios**: Além das vantagens acadêmicas, os alunos podem receber prêmios simbólicos, como certificados de conquista, medalhas digitais, ou itens personalizados. Esses prêmios são projetados para reconhecer e valorizar os esforços e realizações dos alunos, promovendo um ambiente de aprendizado mais dinâmico e recompensador.
 
 
 ### Contato

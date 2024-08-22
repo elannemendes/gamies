@@ -269,11 +269,11 @@ Um ótimo exemplo de atividades práticas são os quizzes. A ferramenta [**Quizz
 Instrumento de avaliação que deve ser aplicado após a realização da aula prática para medir o grau de compreensão e assimilação do conteúdo pelos alunos. Serve para avaliar se os objetivos de aprendizagem foram atingidos.
 
 <div style="display: flex; justify-content: space-between;">
-   <a ref="pont-pos">
+   <a href="pont-pos">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%;">
   </a>
-  <a ref="badges-pos">
+  <a href="badges-pos">
     <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%;">
   </a>
 </div>
@@ -301,7 +301,7 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
 Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:
 
 <div style="display: flex; justify-content: space-between;">
-  <a ref="aqui">
+  <a href="aqui">
     <img src="Badges/1.png" alt="1" style="width: 15%; margin-right: 150px;">
     <img src="Badges/2.png" alt="2" style="width: 15%; margin-right: 150px;">
     <img src="Badges/3.png" alt="3" style="width: 15%; margin-right: 150px;">

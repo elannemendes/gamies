@@ -33,18 +33,18 @@ Este framework oferece uma estrutura detalhada para orientar a elaboração dos 
 
 ## Estrutura
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; display: block; margin: 20px auto;">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 40%; margin: 20px 0;">
   </a>
   <a href="#frame-2">
-    <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 50%; display: block; margin: 20px auto;">
+    <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 40%; margin: 20px 0;">
   </a>
   <a href="#frame-3">
-    <img src="Estrutura/estrutura-framework3.png" alt="Estrutura 3" style="width: 50%; display: block; margin: 20px auto;">
+    <img src="Estrutura/estrutura-framework3.png" alt="Estrutura 3" style="width: 40%; margin: 20px 0;">
   </a>
   <a href="#frame-4">
-    <img src="Estrutura/estrutura-framework4.png" alt="Estrutura 4" style="width: 50%; display: block; margin: 20px auto;">
+    <img src="Estrutura/estrutura-framework4.png" alt="Estrutura 4" style="width: 40%; margin: 20px 0;">
   </a>
 </div>
 

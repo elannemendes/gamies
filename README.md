@@ -298,7 +298,7 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
 - [**Questionário com questões de múltipla escolha**](https://forms.gle/jhAoYbatZgHnVojD9): Avalia o conhecimento pós-aula.
 - **Recompensas e badges**: Reconhece o desempenho e a assimilação do conteúdo.
   
-Exemplos de badges de **personalidades da Engeharia de Software** utilizados no conteúdo de Engenharia de Requisitos:
+Exemplos de badges de **personalidades da Engenharia de Software** utilizados no conteúdo de Engenharia de Requisitos:
 
 
 <div style="display: flex; justify-content: space-between;">

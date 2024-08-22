@@ -298,16 +298,18 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
 - [**Questionário com questões de múltipla escolha**](https://forms.gle/jhAoYbatZgHnVojD9): Avalia o conhecimento pós-aula.
 - **Recompensas e badges**: Reconhece o desempenho e a assimilação do conteúdo.
   
-Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:
+**Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:**
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#aqui">
-    <img src="Badges/1.png" alt="1" style="width: 15%; margin: 60px;">
-    <img src="Badges/2.png" alt="2" style="width: 15%; margin: 60px;">
-    <img src="Badges/3.png" alt="3" style="width: 15%; margin: 60px;">
-    <img src="Badges/4.png" alt="4" style="width: 15%;">
+    <img src="Badges/1.png" alt="1" style="width: 15%; margin: 60px;" title="Descrição para o badge 1">
+    <img src="Badges/2.png" alt="2" style="width: 15%; margin: 60px;" title="Descrição para o badge 2">
+    <img src="Badges/3.png" alt="3" style="width: 15%; margin: 60px;" title="Descrição para o badge 3">
+    <img src="Badges/4.png" alt="4" style="width: 15%;" title="Descrição para o badge 4">
   </a>
 </div>
+
+Neste exemplo, cada **badge** de personalidade vem acompanhado de uma descrição detalhada, destacando a relevância dessa personalidade na Engenharia de Requisitos e/ou Engenharia de Software. Além disso, pontuações extras podem ser atribuídas aos alunos que conquistarem um badge individualmente ou completarem uma coleção de badges.
 
 <a name="frame-3"></a>
 ### 3. Sistema de Gamificação

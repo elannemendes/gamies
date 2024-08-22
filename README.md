@@ -302,9 +302,9 @@ Exemplos de badges de personalidade da Engeharia de Software utilizados no conte
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#aqui">
-    <img src="Badges/1.png" alt="1" style="width: 15%; margin-right: 150px;">
-    <img src="Badges/2.png" alt="2" style="width: 15%; margin-right: 150px;">
-    <img src="Badges/3.png" alt="3" style="width: 15%; margin-right: 150px;">
+    <img src="Badges/1.png" alt="1" style="width: 15%; margin-right: 300px;">
+    <img src="Badges/2.png" alt="2" style="width: 15%; margin-right: 300px;">
+    <img src="Badges/3.png" alt="3" style="width: 15%; margin-right: 300px;">
     <img src="Badges/4.png" alt="4" style="width: 15%;">
   </a>
 </div>

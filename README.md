@@ -36,11 +36,12 @@ Este framework oferece uma estrutura detalhada para orientar a elaboração dos 
 
 O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
 
-<img src="Estrutura/estrutura-framework1.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
-<img src="Estrutura/estrutura-framework2.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
-<img src="Estrutura/estrutura-framework3.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
-<img src="Estrutura/estrutura-framework4.png" alt="Estrutura" style="width: 50%; pointer-events: none;">
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="Estrutura/estrutura-framework1.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <img src="Estrutura/estrutura-framework2.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <img src="Estrutura/estrutura-framework3.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <img src="Estrutura/estrutura-framework4.png" alt="Estrutura" style="width: 50%; pointer-events: none;">
+<\div>
 
 ### 1. Planejamento e Preparação
 
@@ -251,24 +252,6 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 ### Troca de pontos
 
 
-## Ferramentas de apoio
-
-**Classcraft**
-
-**Classcraft** é uma plataforma de gamificação voltada para o ambiente educacional. Ela transforma a sala de aula em um jogo de RPG (Role-Playing Game), onde os alunos podem criar avatares, ganhar pontos de experiência, completar missões e trabalhar em equipes. O objetivo é aumentar o engajamento dos alunos, promover a colaboração e melhorar o comportamento. Com esta ferramenta é possível fornecer um ambiente gamificado, onde o aluno percorre as fases por meio dos roteiros de estudos e avaliações. As pontuações podem ser destinadas de forma automática.
-
-**Google Forms**
-  
-O **Google Forms** é uma ferramenta gratuita do Google que permite criar formulários, questionários e pesquisas online. Ele é amplamente utilizado para coletar dados de forma simples e eficiente. As respostas são automaticamente registradas em uma planilha do Google Sheets, facilitando a análise dos dados. A ferramenta é útil para criar avaliações, pesquisas de feedback, inscrições e muito mais. Com esta ferramenta é possível elaborar os questionários online para as avaliações e os roteiros de estudos.
-
-**Google Data Studio**
-  
-O **Google Data Studio** é uma ferramenta de visualização de dados que permite criar relatórios e dashboards interativos a partir de diversas fontes de dados, como Google Sheets, Google Analytics, e muitas outras. É ideal para transformar dados brutos em insights visuais, facilitando a tomada de decisões. Com ele, é possível personalizar gráficos, tabelas e outros elementos visuais para criar relatórios dinâmicos que podem ser compartilhados com facilidade. Com esta ferramenta é possivel fornecer um feedback aos alunos sobre as suas pontuações e progresso na experiência gamificada.
-
-Aqui está o texto ajustado para incluir os links nas primeiras menções a cada plataforma:
-
----
-
 ## Ferramentas de Apoio
 
 Nesta seção, apresentamos as principais ferramentas que auxiliam na implementação do framework **GamIES**, proporcionando suporte para a gamificação e o planejamento de aulas invertidas. Cada uma dessas plataformas desempenha um papel fundamental na condução das atividades, desde a criação de ambientes gamificados até a coleta e visualização de dados para oferecer feedback contínuo aos alunos.
@@ -283,22 +266,13 @@ No **GamIES**, essa ferramenta é essencial para fornecer um ambiente gamificado
 
 [**Google Forms**](https://www.google.com/forms/about/) é uma ferramenta gratuita e poderosa do Google que permite criar formulários, questionários e pesquisas online com facilidade. Ela é amplamente utilizada em ambientes educacionais para coletar dados, realizar avaliações, e obter feedback de alunos de forma eficiente.
 
-No contexto do **GamIES**, o Google Forms é essencial para criar avaliações (avaliação diagnóstica, avaliação pré-aula, e avaliações pós-aula) e roteiros de estudo que compõem as fases da aula invertida. As respostas coletadas são automaticamente organizadas em planilhas do Google Sheets, facilitando a análise dos dados e o acompanhamento do progresso dos alunos.
+No **GamIES**, o Google Forms é essencial para criar avaliações (avaliação diagnóstica, avaliação pré-aula, e avaliações pós-aula) e roteiros de estudo que compõem as fases da aula invertida. As respostas coletadas são automaticamente organizadas em planilhas do Google Sheets, facilitando a análise dos dados e o acompanhamento do progresso dos alunos.
 
 ### Google Data Studio
 
 [**Google Data Studio**](https://marketingplatform.google.com/about/data-studio/) é uma ferramenta de visualização de dados que permite a criação de relatórios e dashboards interativos a partir de várias fontes de dados, como Google Sheets, Google Analytics, entre outras.
 
 No **GamIES**, o Google Data Studio é usado para fornecer feedback visual aos alunos sobre suas pontuações e progresso, permitindo que eles acompanhem sua evolução ao longo das fases de maneira clara e personalizada. Os relatórios criados podem ser facilmente compartilhados, contribuindo para uma melhor compreensão do desempenho individual e coletivo.
-
-
-## Contribuições
-
-Se você deseja contribuir para o desenvolvimento deste framework, por favor, leia nosso [Guia de Contribuições](CONTRIBUTING.md).
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
 ### 3. Sistema de Gamificação

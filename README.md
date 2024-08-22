@@ -152,8 +152,10 @@ Para que os alunos possam estudar o conteúdo abordado e se preparar para as ati
 #### Como Fazer?
 
 O roteiro pode incluir diversos tipos de materiais, como vídeos, materiais para leitura, realização de pesquisas, entre outras atividades, com o objetivo de facilitar a aprendizagem e direcionar o estudo dos estudantes.
+
 <a name="des-miss-rot"></a>
 A inclusão de elementos de gamificação, como **desafios** e **missões**, pode aumentar a motivação dos alunos e promover um engajamento mais eficaz no processo de aprendizagem.
+
 <a name="narr-rot"></a>
 Outra possibilidade é a utilização de **narrativa**. Incorporar narrativa no roteiro de estudos pode enriquecer a experiência de aprendizagem ao oferecer contextos envolventes e relevantes para o conteúdo. Essa abordagem facilita a criação de uma conexão emocional com o material, tornando o aprendizado mais significativo e memorável.
 

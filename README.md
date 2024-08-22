@@ -298,7 +298,8 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
 - [**Questionário com questões de múltipla escolha**](https://forms.gle/jhAoYbatZgHnVojD9): Avalia o conhecimento pós-aula.
 - **Recompensas e badges**: Reconhece o desempenho e a assimilação do conteúdo.
   
-**Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:**
+Exemplos de badges de **personalidades da Engeharia de Software** utilizados no conteúdo de Engenharia de Requisitos:
+
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#aqui">
@@ -308,6 +309,7 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
     <img src="Badges/4.png" alt="4" style="width: 15%;" title="Natália Juristo é pesquisadora na área de engenharia de software experimental, requisitos e testes.">
   </a>
 </div>
+
 
 Neste exemplo, cada **badge** de personalidade vem acompanhado de uma descrição detalhada, destacando a relevância dessa personalidade na Engenharia de Requisitos e/ou Engenharia de Software. Além disso, pontuações extras podem ser atribuídas aos alunos que conquistarem um badge individualmente ou completarem uma coleção de badges.
 

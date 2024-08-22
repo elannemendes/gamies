@@ -37,12 +37,17 @@ Este framework oferece uma estrutura detalhada para orientar a elaboração dos 
 O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
 
 <div style="display: flex; justify-content: space-between;">
+  <a href="#frame-1">
   <img src="Estrutura/estrutura-framework1.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <a href="#frame-2">
   <img src="Estrutura/estrutura-framework2.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <a href="#frame-3">
   <img src="Estrutura/estrutura-framework3.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
+  <a href="#frame-4">
   <img src="Estrutura/estrutura-framework4.png" alt="Estrutura" style="width: 50%; pointer-events: none;">
-<\div>
+</div>
 
+<a name="frame-1"></a>
 ### 1. Planejamento e Preparação
 
 Esta etapa é fundamental para garantir que o conteúdo seja apresentado de maneira clara e organizada. As principais atividades incluem:
@@ -62,7 +67,7 @@ Esta etapa é fundamental para garantir que o conteúdo seja apresentado de mane
     - **Atividade Prática**: Deve ser realizada na data estabelecida no cronograma.
     - **Avaliação Pós-Aula**: Deve ser disponibilizada no mesmo dia da [Atividade Prática](#atividade-prática), após o encontro com a turma.
 
-
+<a name="frame-2"></a>
 ### 2. Ciclo de Aprendizagem
 
 O ciclo de aprendizagem no framework GamIES é inspirado na metodologia de sala de aula invertida e é dividido em cinco etapas:
@@ -244,11 +249,11 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 - Questionário com questões de múltipla escolha
 - Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário
 
-
+<a name="frame-3"></a>
 ### Sistema de gamificação
 
 
-
+<a name="frame-4"></a>
 ### Troca de pontos
 
 

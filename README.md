@@ -38,16 +38,16 @@ O framework GamIES é organizado em quatro componentes principais: **Planejament
 
 <div style="text-align: center;">
   <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; margin: 20px 0;">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 40%; margin: 20px 0;">
   </a>
   <a href="#frame-2">
-    <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 50%; margin: 20px 0;">
+    <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 40%; margin: 20px 0;">
   </a>
   <a href="#frame-3">
-    <img src="Estrutura/estrutura-framework3.png" alt="Estrutura 3" style="width: 50%; margin: 20px 0;">
+    <img src="Estrutura/estrutura-framework3.png" alt="Estrutura 3" style="width: 40%; margin: 20px 0;">
   </a>
   <a href="#frame-4">
-    <img src="Estrutura/estrutura-framework4.png" alt="Estrutura 4" style="width: 50%; margin: 20px 0;">
+    <img src="Estrutura/estrutura-framework4.png" alt="Estrutura 4" style="width: 40%; margin: 20px 0;">
   </a>
 </div>
 
@@ -77,15 +77,15 @@ Esta etapa é fundamental para garantir que o conteúdo seja apresentado de mane
 
 O ciclo de aprendizagem no framework GamIES é inspirado na metodologia de sala de aula invertida e é dividido em cinco etapas:
 
-- **[Avaliação Diagnóstica](#avaliação-diagnóstica)**: Avaliação inicial para verificar o conhecimento prévio dos alunos sobre o tema. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Diagnóstica](#avaliação-diagnóstica).
+- **Avaliação Diagnóstica**: Avaliação inicial para verificar o conhecimento prévio dos alunos sobre o tema. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Diagnóstica](#avaliação-diagnóstica).
 
-- **[Roteiro de Estudos](#roteiro-de-estudos)**: Material que orienta o estudo dos alunos, preparado com base nos tópicos definidos na etapa de planejamento. A elaboração e a estrutura do roteiro são abordadas na seção [Roteiro de Estudos](#roteiro-de-estudos).
+- **Roteiro de Estudos**: Material que orienta o estudo dos alunos, preparado com base nos tópicos definidos na etapa de planejamento. A elaboração e a estrutura do roteiro são abordadas na seção [Roteiro de Estudos](#roteiro-de-estudos).
 
-- **[Avaliação Pré-Aula](#avaliação-pré-aula)**: Verificação do aprendizado obtido pelos alunos após a realização do [Roteiro de Estudos](#roteiro-de-estudos). Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pré-Aula](#avaliação-pré-aula).
+- **Avaliação Pré-Aula**: Verificação do aprendizado obtido pelos alunos após a realização do [Roteiro de Estudos](#roteiro-de-estudos). Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pré-Aula](#avaliação-pré-aula).
 
-- **[Atividade Prática](#atividade-prática)**: Atividade realizada em sala de aula, focada na aplicação prática dos conceitos estudados. Instruções para a definição e execução das atividades são fornecidas na seção [Atividade Prática](#atividade-prática).
+- **Atividade Prática**: Atividade realizada em sala de aula, focada na aplicação prática dos conceitos estudados. Instruções para a definição e execução das atividades são fornecidas na seção [Atividade Prática](#atividade-prática).
 
-- **[Avaliação Pós-Aula](#avaliação-pós-aula)**: Avaliação realizada após o encontro prático, com o objetivo de consolidar o aprendizado e identificar pontos que ainda necessitam de reforço. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pós-Aula](#avaliação-pós-aula).
+- **Avaliação Pós-Aula**: Avaliação realizada após o encontro prático, com o objetivo de consolidar o aprendizado e identificar pontos que ainda necessitam de reforço. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pós-Aula](#avaliação-pós-aula).
 
 Este ciclo se repete para cada novo tópico abordado no conteúdo, com a quantidade de tópicos e o cronograma das atividades sendo definidos na fase de [Planejamento e Preparação](#1-planejamento-e-preparação).
 

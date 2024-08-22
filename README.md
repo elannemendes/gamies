@@ -168,7 +168,7 @@ Além disso, elementos relacionados à progressão, como barras de **progresso**
 - **Capítulos de livros**: Fornecem uma base sólida de informações.
 - **Sites**: Oferecem recursos adicionais e atualizados.
 
-O roteiro de estudos pode incluir um ou mais dos itens listados acima. Veja um exemplo de [roteiro de estudos](https://forms.gle/Q7anb8BdcyZF8uMP7) sobre Requisitos de Software. Este roteiro, criado no Google Forms, integra a abordagem de sala de aula invertida com elementos de gamificação, aplicados ao conteúdo de Engenharia de Requisitos na disciplina de Engenharia de Software.
+O roteiro de estudos pode incluir um ou mais dos itens listados acima. Veja um exemplo de [roteiro de estudos](https://forms.gle/mRC7ZxjDudgo5VrR6) sobre Requisitos de Software. Este roteiro, criado no Google Forms, integra a abordagem de sala de aula invertida com elementos de gamificação, aplicados ao conteúdo de Engenharia de Requisitos na disciplina de Engenharia de Software.
 
 
 ### Avaliação Pré-Aula

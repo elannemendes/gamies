@@ -225,11 +225,13 @@ Atividades práticas realizadas na sala de aula ou no encontro da turma com o pr
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
+  <a href="#game-pratica">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: ;">
     <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
     <img src="Elementos de gamificação/Equipes.png" alt="Equipes" style="width: 12%; pointer-events: none;">
+  </a> 
 </div>
 
 #### Por que Fazer?
@@ -242,6 +244,7 @@ O professor(a) deve marcar um encontro com a turma a ser realizado após a concl
 
 Para promover a participação e melhor interação entre os alunos, alguns elementos de gamificação podem ser incluídos na atividade, como:
 
+<a name="game-pratica"></a>
 - **Pontuação**: Pontuar as atividades realizadas pelos alunos, criando um ranking ou tabela de classificação.
 - **Recompensas**: Oferecer recompensas aos alunos que alcançarem determinados objetivos ou atingirem um número específico de pontos.
 - **Desafios**: Propor desafios aos alunos, incentivando-os a resolver problemas utilizando o conhecimento adquirido.
@@ -250,11 +253,17 @@ Para promover a participação e melhor interação entre os alunos, alguns elem
 
 #### Exemplos
 
-- Fornecer materiais das atividades que já realizamos
-- Demonstrar o uso dos elementos de gamificação na prática
+- **Atividades práticas em grupo**: Resolução de problemas e simulações.
+
+#### Exemplos
 
 - **Atividades práticas em grupo**: Resolução de problemas e simulações.
+
+Um exemplo de atividade prática relacionada ao conteúdo de Requisitos é a **Classificação de Requisitos**. Esta atividade prática pode ser realizada em grupo. Na atividade, os alunos receberam cartas contendo Requisitos Funcionais, Não Funcionais e Regras de Negócio e são desafiados a classificá-los em uma das três categorias. As cartas foram retiradas de um jogo desenvolvido em um Trabalho de Conclusão de Curso, disponível no [Repositório UFC](http://repositorio.ufc.br/handle/riufc/58824).
+
 - **Competição**: Quizzes ou jogos para estimular a participação.
+
+Um ótimo exemplo de atividades práticas são os quizzes. A ferramenta [**Quizzizz**](https://quizizz.com) é altamente recomendada para essa finalidade, pois permite criar quizzes interativos e envolventes que podem ser utilizados para revisar conteúdos, avaliar o aprendizado e promover a competição saudável entre os alunos. O Quizzizz oferece uma variedade de recursos, como questões com múltipla escolha, feedback instantâneo e opções de personalização, além de disponibilizar diversos quizzes prontos sobre diferentes assuntos.
 
 ### Avaliação Pós-Aula
 
@@ -263,9 +272,13 @@ Para promover a participação e melhor interação entre os alunos, alguns elem
 Instrumento de avaliação que deve ser aplicado após a realização da aula prática para medir o grau de compreensão e assimilação do conteúdo pelos alunos. Serve para avaliar se os objetivos de aprendizagem foram atingidos.
 
 <div style="display: flex; justify-content: space-between;">
+   <a ref="pont-pos">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+  </a>
+  <a ref="badges-pos">
     <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%; pointer-events: none;">
+  </a>
 </div>
 
 #### Por que Fazer?
@@ -274,12 +287,16 @@ A avaliação pós-aula permite ao professor identificar se os objetivos de apre
 
 #### Como Fazer?
 
-Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, apresentações orais, entre outros. O uso de elementos de gamificação, como pontuação e badges, pode proporcionar feedback adicional e incentivar a revisão do conteúdo.
+Pode ser feita por meio de testes, trabalhos individuais ou em grupo, apresentações orais, entre outros. 
+
+<a name="pont-pos"></a>
+Incorporar elementos de gamificação, como **pontuação** e **recompensas**, pode motivar os estudantes a se dedicarem mais ao estudo e a participarem ativamente das atividades práticas, visando um bom desempenho no pós-aula. 
+
+<a name="badges-pos"></a>
+Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as notas obtidas ao responder o questionário. A pontuação necessária para ganhar esses badges pode ser previamente estabelecida no [Sistema de Gamificação](sistema-de-gamificacao).
+
 
 #### Exemplos
-
-- Questionário com questões de múltipla escolha
-- Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário.
 
 - **Questionário com questões de múltipla escolha**: Avalia o conhecimento pós-aula.
 - **Recompensas e badges**: Reconhece o desempenho e a assimilação do conteúdo.

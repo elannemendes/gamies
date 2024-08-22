@@ -8,9 +8,8 @@ Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sob
 - [Principais Objetivos](#principais-objetivos)
 - [Como Funciona](#como-funciona)
 - [Estrutura](#estrutura)
-- [Documentação](#documentacao)
-- [Contribuições](#contribuicoes)
-- [Licença](#licenca)
+- [Ferramentas de Apoio](#ferramentas-de-apoio)
+- [Contato](#contato)
 
 ### Visão Geral
 
@@ -36,7 +35,7 @@ Este framework oferece uma estrutura detalhada para orientar a elaboração dos 
 
 O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; center-content: space-between;">
   <a href="#frame-1">
   <img src="Estrutura/estrutura-framework1.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
   <a href="#frame-2">
@@ -300,3 +299,6 @@ A **Troca de Pontos** é uma funcionalidade que permite aos alunos utilizarem os
 A troca de pontos promove a autonomia dos alunos, incentivando a autorregulação e a responsabilidade pelo próprio aprendizado, além de reforçar o valor das conquistas obtidas ao longo do curso.
 
 
+### Contato
+
+O framework GamIES é um projeto desenvolvido como parte de um mestrado, com o objetivo de auxiliar na implementação de aulas invertidas utilizando elementos de gamificação. Para mais informações sobre o projeto, para discutir possíveis colaborações ou para fornecer feedback, entre em contato com o autor através do seguinte e-mail: [elannemendes@alu.ufc.br](mailto:elannemendes@alu.ufc.br). Agradecemos seu interesse e contribuições para o avanço da pesquisa.

@@ -304,10 +304,10 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
 Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Elementos de gamificação/Desafios.png" alt="1" style="width: 12%; pointer-events: none;">
-    <img src="Elementos de gamificação/Recompensas.png" alt="2" style="width: 12%; pointer-events: none;">
-    <img src="Elementos de gamificação/Competicao.png" alt="3" style="width: 12%; pointer-events: none;">
-    <img src="Elementos de gamificação/Equipes.png" alt="4" style="width: 12%; pointer-events: none;">
+    <img src="Badges/1.png" alt="1" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Badges/2.png" alt="2" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Badges/3.png" alt="3" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Badges/4.png" alt="4" style="width: 12%; pointer-events: none;">
 </div>
 
 <a name="frame-3"></a>

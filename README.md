@@ -101,8 +101,8 @@ Instrumento utilizado para avaliar o conhecimento prévio dos alunos em relaçã
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#game-dig">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
-    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%;">
   </a>
 </div>
 
@@ -137,11 +137,11 @@ Atua como um guia para os alunos durante a preparação para as atividades em sa
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#des-miss-rot">
-    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; margin-right: 60px; pointer-events: none;">
-    <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; margin-right: 60px;">
+    <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 12%;">
   </a>
   <a href="#narr-rot">
-    <img src="Elementos de gamificação/Narrativa.png" alt="Narrativa" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Narrativa.png" alt="Narrativa" style="width: 12%;">
   </a>
 </div>
 
@@ -181,13 +181,13 @@ Instrumento de avaliação que deve ser aplicado antes da aula prática, com o p
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#pont-pre">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px;">
   </a>
   <a href="#feed-pre">
-    <img src="Elementos de gamificação/Feedback.png" alt="Feedback" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Feedback.png" alt="Feedback" style="width: 12%;">
   </a>
   <a href="#rec-pre">
-    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%;">
   </a>
 </div>
 
@@ -226,11 +226,11 @@ Atividades práticas realizadas na sala de aula ou no encontro da turma com o pr
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#game-pratica">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: ;">
-    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; pointer-events: none;">
-    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
-    <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%; pointer-events: none;">
-    <img src="Elementos de gamificação/Equipes.png" alt="Equipes" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px;">
+    <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%;">
+    <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 12%;">
+    <img src="Elementos de gamificação/Equipes.png" alt="Equipes" style="width: 12%;">
   </a> 
 </div>
 
@@ -270,11 +270,11 @@ Instrumento de avaliação que deve ser aplicado após a realização da aula pr
 
 <div style="display: flex; justify-content: space-between;">
    <a ref="pont-pos">
-    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
-    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%;">
   </a>
   <a ref="badges-pos">
-    <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 12%;">
   </a>
 </div>
 
@@ -292,7 +292,7 @@ Incorporar elementos de gamificação, como **pontuação** e **recompensas**, p
 <a name="badges-pos"></a>
 Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as notas obtidas ao responder o questionário. A pontuação necessária para ganhar esses badges pode ser previamente estabelecida no [Sistema de Gamificação](3-sistema-de-gamificacao).
 
-
+ <a name="aqui"></a>
 #### Exemplos
 
 - [**Questionário com questões de múltipla escolha**](https://forms.gle/jhAoYbatZgHnVojD9): Avalia o conhecimento pós-aula.
@@ -301,11 +301,11 @@ Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as
 Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:
 
 <div style="display: flex; justify-content: space-between;">
-  <a ref=""></a>
-    <img src="Badges/1.png" alt="1" style="width: 15%; margin-right: 150px; pointer-events: none;">
-    <img src="Badges/2.png" alt="2" style="width: 15%; margin-right: 150px; pointer-events: none;">
-    <img src="Badges/3.png" alt="3" style="width: 15%; margin-right: 150px; pointer-events: none;">
-    <img src="Badges/4.png" alt="4" style="width: 15%; pointer-events: none;">
+  <a ref="aqui">
+    <img src="Badges/1.png" alt="1" style="width: 15%; margin-right: 150px;">
+    <img src="Badges/2.png" alt="2" style="width: 15%; margin-right: 150px;">
+    <img src="Badges/3.png" alt="3" style="width: 15%; margin-right: 150px;">
+    <img src="Badges/4.png" alt="4" style="width: 15%;">
   </a>
 </div>
 

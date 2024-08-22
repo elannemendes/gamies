@@ -87,7 +87,7 @@ O ciclo de aprendizagem no framework GamIES é inspirado na metodologia de sala 
 
 - **[Avaliação Pós-Aula](#avaliação-pós-aula)**: Avaliação realizada após o encontro prático, com o objetivo de consolidar o aprendizado e identificar pontos que ainda necessitam de reforço. Detalhes sobre como realizar essa avaliação estão descritos na seção [Avaliação Pós-Aula](#avaliação-pós-aula).
 
-Este ciclo se repete para cada novo tópico abordado no conteúdo, com a quantidade de tópicos e o cronograma das atividades sendo definidos na fase de [Planejamento e Preparação](#planejamento-e-preparação).
+Este ciclo se repete para cada novo tópico abordado no conteúdo, com a quantidade de tópicos e o cronograma das atividades sendo definidos na fase de [Planejamento e Preparação](#1-planejamento-e-preparação).
 
 
 ### Avaliação Diagnóstica

@@ -293,14 +293,22 @@ Pode ser feita por meio de testes, trabalhos individuais ou em grupo, apresenta�
 Incorporar elementos de gamificação, como **pontuação** e **recompensas**, pode motivar os estudantes a se dedicarem mais ao estudo e a participarem ativamente das atividades práticas, visando um bom desempenho no pós-aula. 
 
 <a name="badges-pos"></a>
-Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as notas obtidas ao responder o questionário. A pontuação necessária para ganhar esses badges pode ser previamente estabelecida no [Sistema de Gamificação](sistema-de-gamificacao).
+Os alunos podem ser recompensados com **badges** de acordo com o desempenho e as notas obtidas ao responder o questionário. A pontuação necessária para ganhar esses badges pode ser previamente estabelecida no [Sistema de Gamificação](3-sistema-de-gamificacao).
 
 
 #### Exemplos
 
-- **Questionário com questões de múltipla escolha**: Avalia o conhecimento pós-aula.
+- [**Questionário com questões de múltipla escolha**](https://forms.gle/jhAoYbatZgHnVojD9): Avalia o conhecimento pós-aula.
 - **Recompensas e badges**: Reconhece o desempenho e a assimilação do conteúdo.
 
+Exemplos de badges de personalidade da Engeharia de Software utilizados no conteúdo de Engenharia de Requisitos:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Elementos de gamificação/Desafios.png" alt="1" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="2" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Competicao.png" alt="3" style="width: 12%; pointer-events: none;">
+    <img src="Elementos de gamificação/Equipes.png" alt="4" style="width: 12%; pointer-events: none;">
+</div>
 
 <a name="frame-3"></a>
 ### 3. Sistema de Gamificação

@@ -1,4 +1,4 @@
-![estrutura-framework4](https://github.com/user-attachments/assets/9f3d9ed0-bd8d-42fa-9bd3-78a48a6edd79)# GamIES: Um framework para Gamificação de Sala de Aula Invertida em Engenharia de Software
+# GamIES: Um framework para Gamificação de Sala de Aula Invertida em Engenharia de Software
 
 Bem-vindo ao GamIES! Este documento oferece uma visão geral e orientações sobre como aplicar nosso framework para integrar elementos de gamificação em suas aulas invertidas, potencializando a motivação e o engajamento dos alunos.
 

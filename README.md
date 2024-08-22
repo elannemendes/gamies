@@ -254,6 +254,152 @@ Pode ser feita por meio de testes, provas, trabalhos individuais ou em grupo, ap
 - Questionário com questões de múltipla escolha
 - Recompensa associada ao desempenho com relação a nota obtida ao responder o questionário
 
+Aqui está uma versão aprimorada do texto com links para imagens, descrições e exemplos ilustrativos:
+
+---
+
+### Avaliação Diagnóstica
+
+#### Descrição
+
+A avaliação diagnóstica é uma ferramenta crucial para avaliar o conhecimento prévio dos alunos em relação ao conteúdo a ser abordado. Ela ajuda a identificar áreas de domínio e dificuldades, permitindo ajustes no material didático conforme as necessidades individuais e coletivas dos estudantes.
+
+#### Elementos de Gamificação Associados
+
+<div style="text-align: center;">
+  <a href="#game-dig">
+    <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 15%; margin-right: 30px;">
+    <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 15%;">
+  </a>
+</div>
+
+#### Por que Fazer?
+
+Realizar uma avaliação diagnóstica é essencial para identificar lacunas no conhecimento dos alunos e adaptar o material de estudo. Além disso, envolve os alunos ativamente no processo de aprendizagem e estimula a reflexão sobre seu conhecimento.
+
+#### Como Fazer?
+
+A avaliação pode ser feita através de testes, questionários ou atividades que proporcionem uma visão geral do conhecimento dos alunos.
+
+Adoção de elementos de gamificação, como **pontuação** e **recompensas**, pode aumentar a motivação dos alunos, criando um ambiente de aprendizagem mais dinâmico e envolvente. Estes elementos incentivam uma competição saudável e o engajamento dos estudantes.
+
+#### Exemplos
+
+- **Questionário com questões objetivas**: Inclui pontuações associadas às respostas.
+- **Questionário auto declarativo**: Permite aos alunos avaliar seu próprio conhecimento.
+
+### Roteiro de Estudos
+
+#### Descrição
+
+O roteiro de estudos é um guia que orienta os alunos na preparação para as atividades em sala de aula. Este material é disponibilizado pelo professor para auxiliar no estudo do conteúdo teórico em casa, preparando-os para as aulas práticas.
+
+#### Elementos de Gamificação Associados
+
+<div style="text-align: center;">
+  <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Narrativa.png" alt="Narrativa" style="width: 15%;">
+</div>
+
+#### Por que Fazer?
+
+O roteiro de estudos é fundamental para que os alunos absorvam o conteúdo teórico e se preparem para as atividades práticas. Ele ajuda a garantir um bom desempenho nas atividades realizadas com base no material estudado.
+
+#### Como Fazer?
+
+O roteiro pode incluir diversos tipos de materiais, como vídeos, leituras e pesquisas. A inclusão de desafios e missões como elementos de gamificação pode motivar os alunos e engajar mais efetivamente no processo de aprendizagem.
+
+#### Exemplos
+
+- **Vídeo aulas**: Fornecem uma introdução visual ao conteúdo.
+- **Artigos científicos**: Aprofundam o conhecimento teórico.
+- **Capítulos de livros**: Fornecem uma base sólida de informações.
+- **Sites**: Oferecem recursos adicionais e atualizados.
+
+### Avaliação Pré-Aula
+
+#### Descrição
+
+A avaliação pré-aula é aplicada antes da aula prática para verificar o conhecimento adquirido pelos alunos com base no roteiro de estudo. Seu objetivo é identificar áreas que precisam de revisão e possibilitar o direcionamento de dúvidas para o professor.
+
+#### Elementos de Gamificação Associados
+
+<div style="text-align: center;">
+  <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Feedback.png" alt="Feedback" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 15%;">
+</div>
+
+#### Por que Fazer?
+
+A avaliação pré-aula ajuda a identificar lacunas no conhecimento e a preparar os alunos para o que será abordado na aula prática. Além disso, incentiva os alunos a refletirem sobre o que já aprenderam e a prepararem perguntas para a aula.
+
+#### Como Fazer?
+
+Pode ser feita através de questionários online, exercícios práticos ou atividades que promovam a reflexão. Elementos de gamificação, como barras de progresso, pontuação e conquistas, podem proporcionar feedback imediato e motivar os alunos.
+
+#### Exemplos
+
+- **Questionário com questões de múltipla escolha**: Avalia o conhecimento prévio.
+- **Feedback visual**: Indica respostas corretas ou incorretas.
+- **Conquistas**: Medalhas ou recompensas virtuais para desempenho.
+
+### Atividade Prática
+
+#### Descrição
+
+Atividades práticas realizadas durante as aulas ou encontros com o professor. Estas atividades podem envolver a resolução de problemas, simulações, jogos educativos e quizzes, aplicando o conhecimento adquirido nas etapas anteriores.
+
+#### Elementos de Gamificação Associados
+
+<div style="text-align: center;">
+  <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Competicao.png" alt="Competição" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Equipes.png" alt="Equipes" style="width: 15%;">
+</div>
+
+#### Por que Fazer?
+
+As atividades práticas permitem que os alunos apliquem o conhecimento adquirido e recebam feedback imediato. Elas ajudam a identificar áreas de dificuldade e ajustam o material didático conforme necessário.
+
+#### Como Fazer?
+
+O professor deve organizar um encontro após as etapas anteriores, resolver dúvidas e realizar uma atividade prática em grupo. Elementos de gamificação, como pontuação, recompensas, desafios e competições, podem ser incorporados para aumentar o engajamento e a interação entre os alunos.
+
+#### Exemplos
+
+- **Atividades práticas em grupo**: Resolução de problemas e simulações.
+- **Competição**: Quizzes ou jogos para estimular a participação.
+
+### Avaliação Pós-Aula
+
+#### Descrição
+
+A avaliação pós-aula é realizada após a aula prática para medir o grau de compreensão e assimilação do conteúdo pelos alunos. Serve para avaliar se os objetivos de aprendizagem foram atingidos.
+
+<div style="text-align: center;">
+  <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 15%; margin-right: 30px;">
+  <img src="Elementos de gamificação/Badges.png" alt="Badges" style="width: 15%;">
+</div>
+
+#### Por que Fazer?
+
+A avaliação pós-aula permite identificar se os objetivos foram alcançados e se é necessário reforçar algum conteúdo. Também oferece uma oportunidade para os alunos revisarem o que aprenderam.
+
+#### Como Fazer?
+
+Pode ser realizada por meio de testes, provas, trabalhos individuais ou em grupo. O uso de elementos de gamificação, como pontuação e badges, pode proporcionar feedback adicional e incentivar a revisão do conteúdo.
+
+#### Exemplos
+
+- **Questionário com questões de múltipla escolha**: Avalia o conhecimento pós-aula.
+- **Recompensas e badges**: Reconhece o desempenho e a assimilação do conteúdo.
+
+
 <a name="frame-3"></a>
 ### Sistema de gamificação
 

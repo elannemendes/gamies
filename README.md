@@ -35,7 +35,7 @@ Este framework oferece uma estrutura detalhada para orientar a elaboração dos 
 
 O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
 
-<div style="display: flex; center-content: space-between;">
+<div style="display: flex; justify-content: center;">
   <a href="#frame-1">
   <img src="Estrutura/estrutura-framework1.png" alt="Estrutura" style="width: 50%; margin-bottom: 60px; pointer-events: none;">
   <a href="#frame-2">
@@ -186,7 +186,7 @@ Utilizar elementos visuais para fornecer um feedback imediato. Quando o usuário
 - Elemento que mostre o desempenho e progresso do usuário
 - Recompensas para incentivar o usuário
 
-### Aulas Práticas
+### Atividade Prática
 
 #### Descrição
 

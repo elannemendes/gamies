@@ -30,32 +30,20 @@ O **GamIES** é um framework desenvolvido para auxiliar professores de Engenhari
 
 Este framework oferece uma estrutura detalhada para orientar a elaboração dos materiais necessários para a implementação de aulas invertidas, integrando de forma eficaz elementos de gamificação para enriquecer o processo de ensino e aprendizagem. Esta integração permite criar um ambiente de aprendizagem mais envolvente e dinâmico, facilitando a aplicação prática dos conceitos e promovendo uma maior interação e motivação dos alunos.
 
-
-## Estrutura
-
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="text-align: center;">
   <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; margin: 60px 0;">
-  </a>
-  <a href="#frame-2">
-    <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 50%; margin: 60px 0;">
-  </a>
-  <a href="#frame-3">
-    <img src="Estrutura/estrutura-framework3.png" alt="Estrutura 3" style="width: 50%; margin: 60px 0;">
-  </a>
-  <a href="#frame-4">
-    <img src="Estrutura/estrutura-framework4.png" alt="Estrutura 4" style="width: 50%; margin: 60px 0;">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: %; margin: 30px 0;">
   </a>
 </div>
 
-
+## Estrutura
 
 O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
 
 
 <div style="text-align: center;">
   <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; margin: 30px 0;">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: %; margin: 30px 0;">
   </a>
   <a href="#frame-2">
     <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 50%; margin: 30px 0;">

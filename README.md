@@ -251,9 +251,6 @@ Para promover a participação e melhor interação entre os alunos, alguns elem
 - **Competições**: Promover competições em sala de aula, como quizzes ou jogos, estimulando a participação e a colaboração entre os alunos.
 - **Premiações**: Premiar os alunos com melhores desempenhos ou que mais se destacarem durante as atividades gamificadas.
 
-#### Exemplos
-
-- **Atividades práticas em grupo**: Resolução de problemas e simulações.
 
 #### Exemplos
 

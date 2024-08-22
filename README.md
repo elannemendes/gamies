@@ -30,12 +30,6 @@ O **GamIES** é um framework desenvolvido para auxiliar professores de Engenhari
 
 Este framework oferece uma estrutura detalhada para orientar a elaboração dos materiais necessários para a implementação de aulas invertidas, integrando de forma eficaz elementos de gamificação para enriquecer o processo de ensino e aprendizagem. Esta integração permite criar um ambiente de aprendizagem mais envolvente e dinâmico, facilitando a aplicação prática dos conceitos e promovendo uma maior interação e motivação dos alunos.
 
-<div style="text-align: center;">
-  <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; display: block; margin: 30px auto;">
-  </a>
-</div>
-
 ## Estrutura
 
 O framework GamIES é organizado em quatro componentes principais: **Planejamento e Preparação**, **Ciclo de Aprendizagem**, **Sistema de Gamificação**, e **Troca de Pontos**. As seções seguintes oferecem uma descrição detalhada de cada um desses componentes. A imagem abaixo ilustra a estrutura geral do framework.
@@ -43,7 +37,7 @@ O framework GamIES é organizado em quatro componentes principais: **Planejament
 
 <div style="text-align: center;">
   <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: %; margin: 30px 0;">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; margin: 30px 0;">
   </a>
   <a href="#frame-2">
     <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 50%; margin: 30px 0;">
@@ -66,7 +60,7 @@ Esta etapa é fundamental para garantir que o conteúdo seja apresentado de mane
   
 - **Segmentação dos Tópicos**: Após definir o conteúdo, o professor deve dividir o material em tópicos menores e gerenciáveis, garantindo que o material de estudo não seja excessivamente longo ou denso. Por exemplo, o tema de Engenharia de Requisitos poderia ser subdividido em tópicos como Conceitos e Tipos de Requisitos, Elicitação de Requisitos, Especificação de Requisitos e Gerenciamento de Requisitos.
 
-- **Elaboração do Material**: O material didático deve ser preparado de acordo com os tópicos definidos, garantindo que todos os recursos necessários para o aprendizado estejam disponíveis. Para isso, o professor deve seguir as instruções do ciclo de aprendizagem, que descrevem em detalhes cada material e orientam sua elaboração.
+- **Elaboração do Material**: O material didático deve ser preparado de acordo com os tópicos definidos, garantindo que todos os recursos necessários para o aprendizado estejam disponíveis. Para isso, o professor deve seguir as instruções do [Ciclo de Aprendizagem](#ciclo-de-aprendizagem), que descrevem em detalhes cada material e orientam sua elaboração.
 
 - **Definição do Cronograma**:
   - O cronograma deve detalhar as datas de liberação de cada material para os alunos, os prazos de entrega, e as datas dos encontros presenciais.

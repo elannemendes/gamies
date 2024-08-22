@@ -136,9 +136,13 @@ Atua como um guia para os alunos durante a preparação para as atividades em sa
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
+  <a href="#des-miss-rot">
     <img src="Elementos de gamificação/Desafios.png" alt="Desafios" style="width: 12%; margin-right: 60px; pointer-events: none;">
     <img src="Elementos de gamificação/Missoes.png" alt="Missões" style="width: 12%; pointer-events: none;">
+  </a>
+  <a href="#narr-rot">
     <img src="Elementos de gamificação/Narrativa.png" alt="Narrativa" style="width: 12%; pointer-events: none;">
+  </a>
 </div>
 
 #### Por que Fazer?
@@ -148,8 +152,10 @@ Para que os alunos possam estudar o conteúdo abordado e se preparar para as ati
 #### Como Fazer?
 
 O roteiro pode incluir diversos tipos de materiais, como vídeos, materiais para leitura, realização de pesquisas, entre outras atividades, com o objetivo de facilitar a aprendizagem e direcionar o estudo dos estudantes.
-
+<a name="des-miss-rot"></a>
 A inclusão de elementos de gamificação, como **desafios** e **missões**, pode aumentar a motivação dos alunos e promover um engajamento mais eficaz no processo de aprendizagem.
+<a name="narr-rot"></a>
+Outra possibilidade é a utilização de **narrativa**. Incorporar narrativa no roteiro de estudos pode enriquecer a experiência de aprendizagem ao oferecer contextos envolventes e relevantes para o conteúdo. Essa abordagem facilita a criação de uma conexão emocional com o material, tornando o aprendizado mais significativo e memorável.
 
 Além disso, elementos relacionados à progressão, como barras de **progresso** ou **sistemas de níveis**, podem ser utilizados para monitorar o avanço dos alunos e incentivar a continuidade do estudo.
 
@@ -159,6 +165,8 @@ Além disso, elementos relacionados à progressão, como barras de **progresso**
 - **Artigos científicos**: Aprofundam o conhecimento teórico.
 - **Capítulos de livros**: Fornecem uma base sólida de informações.
 - **Sites**: Oferecem recursos adicionais e atualizados.
+
+O roteiro de estudos pode incluir um ou mais dos itens listados acima. Veja um exemplo de [roteiro de estudos](https://forms.gle/MaAK6jHv2FkN35SM7) sobre Requisitos de Software. Este roteiro, criado no Google Forms, integra a abordagem de sala de aula invertida com elementos de gamificação, aplicados ao conteúdo de Engenharia de Requisitos na disciplina de Engenharia de Software.
 
 
 ### Avaliação Pré-Aula
@@ -191,7 +199,7 @@ Além disso, é recomendável usar elementos visuais para fornecer **feedback** 
 
 #### Exemplos
 
-- **Questionário com questões de múltipla escolha**: Avalia o conhecimento adquirido.
+- [**Questionário com questões de múltipla escolha**](https://forms.gle/sx8cLX2wxaMNmGfw8): Avalia o conhecimento adquirido.
 - **Feedback visual**: Indica respostas corretas ou incorretas.
 - **Conquistas**: Medalhas ou recompensas virtuais para desempenho.
   

@@ -32,7 +32,7 @@ Este framework oferece uma estrutura detalhada para orientar a elaboração dos 
 
 <div style="text-align: center;">
   <a href="#frame-1">
-    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: %; margin: 30px 0;">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; margin: 30px 0;">
   </a>
 </div>
 

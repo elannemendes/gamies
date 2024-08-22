@@ -290,7 +290,6 @@ A gamificação do ciclo de aprendizagem inclui a utilização de:
 A **Troca de Pontos** é uma funcionalidade que permite aos alunos utilizarem os pontos acumulados no sistema de gamificação para obter recompensas específicas. Essas recompensas podem variar desde vantagens acadêmicas até prêmios simbólicos, proporcionando uma experiência mais envolvente e motivadora. Este mecanismo inclui:
 
 - **Conversão de Pontos**: Os pontos adquiridos podem ser trocados por itens úteis, como dicas extras em avaliações, acesso antecipado a materiais, ou até mesmo benefícios na pontuação final, incentivando os alunos a se empenharem ainda mais em suas atividades.
-- 
 - **Premios**: Além das vantagens acadêmicas, os alunos podem receber prêmios simbólicos, como certificados de conquista, medalhas digitais, ou itens personalizados. Esses prêmios são projetados para reconhecer e valorizar os esforços e realizações dos alunos, promovendo um ambiente de aprendizado mais dinâmico e recompensador.
 
 

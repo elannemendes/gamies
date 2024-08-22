@@ -46,6 +46,22 @@ O framework GamIES é organizado em quatro componentes principais: **Planejament
   <img src="Estrutura/estrutura-framework4.png" alt="Estrutura" style="width: 50%; pointer-events: none;">
 </div>
 
+
+<div style="text-align: center;">
+  <a href="#frame-1">
+    <img src="Estrutura/estrutura-framework1.png" alt="Estrutura 1" style="width: 50%; margin: 20px 0;">
+  </a>
+  <a href="#frame-2">
+    <img src="Estrutura/estrutura-framework2.png" alt="Estrutura 2" style="width: 50%; margin: 20px 0;">
+  </a>
+  <a href="#frame-3">
+    <img src="Estrutura/estrutura-framework3.png" alt="Estrutura 3" style="width: 50%; margin: 20px 0;">
+  </a>
+  <a href="#frame-4">
+    <img src="Estrutura/estrutura-framework4.png" alt="Estrutura 4" style="width: 50%; margin: 20px 0;">
+  </a>
+</div>
+
 <a name="frame-1"></a>
 ### 1. Planejamento e Preparação
 

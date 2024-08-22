@@ -180,9 +180,15 @@ Instrumento de avaliação que deve ser aplicado antes da aula prática, com o p
 #### Elementos de gamificação associados
 
 <div style="display: flex; justify-content: space-between;">
+  <a href="#pont-pre">
     <img src="Elementos de gamificação/Pontuacao.png" alt="Pontuação" style="width: 12%; margin-right: 60px; pointer-events: none;">
+  </a>
+  <a href="#feed-pre">
     <img src="Elementos de gamificação/Feedback.png" alt="Feedback" style="width: 12%; pointer-events: none;">
+  </a>
+  <a href="#rec-pre">
     <img src="Elementos de gamificação/Recompensas.png" alt="Recompensas" style="width: 12%; pointer-events: none;">
+  </a>
 </div>
 
 #### Por que Fazer?
@@ -193,10 +199,13 @@ O objetivo da avaliação pré-aula é identificar as lacunas do conhecimento do
 
 Pode ser feita por meio de um questionário online, com questões de múltipla escolha, ou atividade que estimule a reflexão sobre o assunto.
 
+<a name="pont-pre"></a>
 Em questionários online, uma alternativa de gamificação é a implementação de uma **barra de progresso** ou **atribuição de pontuações** que demonstre o desempenho do estudante enquanto ele responde às questões. À medida que o usuário acerta as perguntas, a barra de progresso aumenta ou a pontuação vai aumentando, demonstrando um feedback positivo. Caso o aluno responda incorretamente, a barra de progresso pode não avançar ou a pontuação pode permanecer inalterada, fornecendo um feedback negativo e incentivando o usuário a melhorar seu desempenho. 
 
+<a name="rec-pre"></a>
 Outra possibilidade é a utilização de **conquistas** ou **medalhas**. Ao alcançar certos marcos, como acertar um número específico de perguntas, o aluno pode receber uma medalha ou conquista que será exibida em seu perfil ou em um placar. Essas recompensas virtuais servem como motivação adicional para que o aluno continue participando.
 
+<a name="feed-pre"></a>
 Além disso, é recomendável usar elementos visuais para fornecer **feedback** imediato. Quando o aluno responder corretamente uma questão, a resposta pode ser destacada em verde, acompanhada de uma animação positiva. Em contrapartida, respostas incorretas podem ser destacadas em vermelho, acompanhadas de uma animação que sinaliza o erro, facilitando a identificação.
 
 #### Exemplos

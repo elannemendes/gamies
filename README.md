@@ -303,7 +303,7 @@ Exemplos de badges de **personalidades da Engenharia de Software** utilizados no
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#aqui">
-    <img src="Badges/1.png" alt="1" style="width: 15%; margin-top: 150px;" title="Margaret Hamilton é considerada a “mãe” da engenharia de software. Ela é cientista da computação, engenheira de software e empresária estadunidense.">
+    <img src="Badges/1.png" alt="1" style="width: 15%; margin-top: 150px; margin-bottom: 150px;" title="Margaret Hamilton é considerada a “mãe” da engenharia de software. Ela é cientista da computação, engenheira de software e empresária estadunidense.">
     <img src="Badges/2.png" alt="2" style="width: 15%; margin: 150px;" title="Ian Sommerville é autor de um livro popular de engenharia de software, além de vários outros livros e documentos.">
     <img src="Badges/3.png" alt="3" style="width: 15%; margin: 150px;" title="Ron Jeffries é co-fundador da metodologia Extreme Programming (XP) e criador dos aspectos-chave de uma história de usuário, chamados os três C’s”.">
     <img src="Badges/4.png" alt="4" style="width: 15%; margin: 150px;" title="Natália Juristo é pesquisadora na área de engenharia de software experimental, requisitos e testes.">
